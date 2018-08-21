@@ -1,0 +1,1119 @@
+<id>随便没办法思考的呀</id>
+<follow_list>
+<star>
+<star_nickname>超级话题</star_nickname>
+<star_info>超级话题官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>408</star_follow_num>
+<star_fan_num>49121166</star_fan_num>
+<star_weibo_num>1411</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>adamlambert</star_nickname>
+<star_info>亚当·兰伯特(Adam Lambert)，美国著名男歌手。2009美国偶像亚军，同年发行首张专辑For Your Entertainment, 2012...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>印巴巴</star_nickname>
+<star_info>本命一对儿，墙头一堆，今晚翻谁的牌子好 /Lofter：tears-of-fury /Twitter：inkerpape</star_info>
+<star_way>微博推荐</star_way>
+<star_area>江苏 南京</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>316</star_follow_num>
+<star_fan_num>118713</star_fan_num>
+<star_weibo_num>2936</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>酿克酿可</star_nickname>
+<star_info>插画师</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>407</star_follow_num>
+<star_fan_num>150441</star_fan_num>
+<star_weibo_num>4202</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>Ten-year-long</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>246</star_follow_num>
+<star_fan_num>41</star_fan_num>
+<star_weibo_num>3543</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Belle要成为很很很厉害的人呀</star_nickname>
+<star_info>车与车总是撞 人与人总相让</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>140</star_follow_num>
+<star_fan_num>59</star_fan_num>
+<star_weibo_num>175</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>cmsyzbryfd</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>3</star_follow_num>
+<star_fan_num>124662</star_fan_num>
+<star_weibo_num>10</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>5福LoveWilliam陈伟霆公益站</star_nickname>
+<star_info>陈伟霆超话粉丝大咖</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>187</star_follow_num>
+<star_fan_num>54832</star_fan_num>
+<star_weibo_num>17275</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>倾听_WilliamChan陈伟霆个站</star_nickname>
+<star_info>陈伟霆的「Fanpage」  「爱的安利请转载注明」  ⚠图频未经授权禁一切二改二传</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港 其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>27</star_follow_num>
+<star_fan_num>40844</star_fan_num>
+<star_weibo_num>5341</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆吧官博</star_nickname>
+<star_info>#陈伟霆#超级话题主持人团队</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港 中西区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>468</star_follow_num>
+<star_fan_num>655436</star_fan_num>
+<star_weibo_num>15474</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆data站</star_nickname>
+<star_info>陈伟霆超话小主持人</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>989</star_follow_num>
+<star_fan_num>348457</star_fan_num>
+<star_weibo_num>25559</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆</star_nickname>
+<star_info>@William威廉陈伟霆 1985年11月21日出生于香港，流行歌手、演员、主持人。03年因参加选秀进入娱乐圈，发行6张个...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>黑巧克力味的cookie</star_nickname>
+<star_info>娱乐博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>81</star_follow_num>
+<star_fan_num>17574</star_fan_num>
+<star_weibo_num>882</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆十二联盟总博</star_nickname>
+<star_info>两耳不闻窗外事，专注打榜一百年。（建议或意见、联系我们：W1121W@188.com  适用于小论文或多图，100％收到并回...</star_info>
+<star_way>微博找人</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>25</star_follow_num>
+<star_fan_num>26952</star_fan_num>
+<star_weibo_num>2950</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>刘烨</star_nickname>
+<star_info>知名演员刘烨</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1915</star_follow_num>
+<star_fan_num>53212890</star_fan_num>
+<star_weibo_num>1008</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>林永健</star_nickname>
+<star_info>影视演员</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>103</star_follow_num>
+<star_fan_num>3692515</star_fan_num>
+<star_weibo_num>475</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>胡军</star_nickname>
+<star_info>影视演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>592</star_follow_num>
+<star_fan_num>3295329</star_fan_num>
+<star_weibo_num>1695</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>程霆_SuperWilliam</star_nickname>
+<star_info>Super William团员 一名空军</star_info>
+<star_way>微博找人</star_way>
+<star_area>香港 其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>46</star_follow_num>
+<star_fan_num>2042</star_fan_num>
+<star_weibo_num>139</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>冉丹ooYZJZ</star_nickname>
+<star_info>☞I want to make lots of money and live a good life.♥</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>321</star_follow_num>
+<star_fan_num>33727</star_fan_num>
+<star_weibo_num>0</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>林晋诺</star_nickname>
+<star_info>阿诺工作室 总经理</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>363</star_follow_num>
+<star_fan_num>254766</star_fan_num>
+<star_weibo_num>662</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>林晋希</star_nickname>
+<star_info>电视剧≪宫锁珠帘≫、≪美人无泪≫ 现场导演</star_info>
+<star_way>微博找人</star_way>
+<star_area>香港 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>393</star_follow_num>
+<star_fan_num>25617</star_fan_num>
+<star_weibo_num>574</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>old先</star_nickname>
+<star_info>old先，漫画作者，代表作品《小丑丹尼》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>170</star_follow_num>
+<star_fan_num>5303243</star_fan_num>
+<star_weibo_num>625</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>中山大学信息技术帮助台</star_nickname>
+<star_info>中山大学网络与信息技术中心官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>341</star_follow_num>
+<star_fan_num>11612</star_fan_num>
+<star_weibo_num>1788</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Maxcell</star_nickname>
+<star_info>中山大学Maxcell协会官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 珠海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>904</star_follow_num>
+<star_fan_num>7431</star_fan_num>
+<star_weibo_num>2420</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>使徒子</star_nickname>
+<star_info>漫画家、景观设计师、代表作《脑洞超市》《一条狗》 微博签约自媒体</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>海外 美国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>905</star_follow_num>
+<star_fan_num>6988806</star_fan_num>
+<star_weibo_num>15325</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>Houson猴姆</star_nickname>
+<star_info>知名播客Houson猴姆 微博签约自媒体</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>520</star_follow_num>
+<star_fan_num>4536962</star_fan_num>
+<star_weibo_num>70299</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>浙江大学吴晓波</star_nickname>
+<star_info>浙江大学管理学院院长 吴晓波</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>55</star_follow_num>
+<star_fan_num>16478</star_fan_num>
+<star_weibo_num>129</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>史学理论陈新</star_nickname>
+<star_info>浙江大学历史系教授陈新</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>10</star_follow_num>
+<star_fan_num>15698</star_fan_num>
+<star_weibo_num>4240</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙大董平</star_nickname>
+<star_info>浙江大学哲学系教授，百家讲坛主讲人</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>34</star_follow_num>
+<star_fan_num>45064</star_fan_num>
+<star_weibo_num>102</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>章剑生</star_nickname>
+<star_info>浙江大学法学院教授 章剑生</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>653</star_follow_num>
+<star_fan_num>16873</star_fan_num>
+<star_weibo_num>3519</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙大王志成</star_nickname>
+<star_info>浙江大学哲学系教授王志成</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>689</star_follow_num>
+<star_fan_num>21411</star_fan_num>
+<star_weibo_num>4283</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙江大学招生办公室</star_nickname>
+<star_info>浙江大学招生办官方微博</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>206</star_follow_num>
+<star_fan_num>31413</star_fan_num>
+<star_weibo_num>485</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙江大学研究生会</star_nickname>
+<star_info>浙江大学研究生会官方微博</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>742</star_follow_num>
+<star_fan_num>21914</star_fan_num>
+<star_weibo_num>9913</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>浙江大学CC98论坛</star_nickname>
+<star_info>浙江大学学生CC98网络协会官方微博</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>259</star_follow_num>
+<star_fan_num>30187</star_fan_num>
+<star_weibo_num>3450</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙大茶学</star_nickname>
+<star_info>浙江大学茶学系副系主任，浙江省茶叶学会秘书长王岳飞</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1986</star_follow_num>
+<star_fan_num>23124</star_fan_num>
+<star_weibo_num>1565</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙江大学苏德矿</star_nickname>
+<star_info>&nbsp;&nbsp;浙江大学    教授</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>2471</star_follow_num>
+<star_fan_num>162241</star_fan_num>
+<star_weibo_num>44792</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>浙江大学</star_nickname>
+<star_info>浙江大学官方微博、教育官微联盟成员</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>783</star_follow_num>
+<star_fan_num>533211</star_fan_num>
+<star_weibo_num>16905</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>周欣悦_浙江大学</star_nickname>
+<star_info>中山大学心理系教授，社会文化与精神健康研究中心主任</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1655</star_follow_num>
+<star_fan_num>20879</star_fan_num>
+<star_weibo_num>602</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中山大学研究生会学术推荐</star_nickname>
+<star_info>聚焦学术</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>434</star_follow_num>
+<star_fan_num>3381</star_fan_num>
+<star_weibo_num>2257</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>王则柯</star_nickname>
+<star_info>中山大学岭南学院国际商务系教授</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>162</star_follow_num>
+<star_fan_num>80468</star_fan_num>
+<star_weibo_num>10225</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中山大学吴柏林</star_nickname>
+<star_info>中山大学教授、公共传播研究所副所长；中国广告协会学术委员会委员；多家知名企业营销管理顾问。</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>306</star_follow_num>
+<star_fan_num>4680</star_fan_num>
+<star_weibo_num>1123</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>张志安</star_nickname>
+<star_info>中山大学传播与设计学院院长、教授、博导，全媒体研究院副院长 微博签约自媒体</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>2006</star_follow_num>
+<star_fan_num>245403</star_fan_num>
+<star_weibo_num>12129</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中山大学生兼职</star_nickname>
+<star_info>本公益微博致力于大学生社会实践活动，自发信息大部分来自院就业中心；代发信息请将内容发送330161500@qq.com或...</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 中山</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>126</star_follow_num>
+<star_fan_num>10623</star_fan_num>
+<star_weibo_num>1234</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>彭晓芸</star_nickname>
+<star_info>中山大学哲学系在读博士生、媒体特约评论员 微博签约自媒体</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1981</star_follow_num>
+<star_fan_num>261433</star_fan_num>
+<star_weibo_num>18608</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>袁伟时</star_nickname>
+<star_info>中山大学教授袁伟时</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1902</star_follow_num>
+<star_fan_num>4212545</star_fan_num>
+<star_weibo_num>3704</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中山大学研究生会</star_nickname>
+<star_info>中山大学研究生会官方微博</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>399</star_follow_num>
+<star_fan_num>14636</star_fan_num>
+<star_weibo_num>2310</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中山大学研究生院</star_nickname>
+<star_info>中山大学研究生院官方微博</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>284</star_follow_num>
+<star_fan_num>28049</star_fan_num>
+<star_weibo_num>627</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中山大学学生会</star_nickname>
+<star_info>中山大学学生会官方微博 </star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>302</star_follow_num>
+<star_fan_num>42953</star_fan_num>
+<star_weibo_num>2407</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>严锋</star_nickname>
+<star_info>复旦大学中文系教授 微博签约自媒体</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>上海 黄浦区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1860</star_follow_num>
+<star_fan_num>4777993</star_fan_num>
+<star_weibo_num>28783</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>孙立坚</star_nickname>
+<star_info>复旦大学经济学院副院长</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>上海 杨浦区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>0</star_follow_num>
+<star_fan_num>3304213</star_fan_num>
+<star_weibo_num>781</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>李若山老师</star_nickname>
+<star_info>复旦大学教授李若山</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1404</star_follow_num>
+<star_fan_num>157762</star_fan_num>
+<star_weibo_num>574</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>孙笑侠</star_nickname>
+<star_info>复旦大学特聘教授、法学院教授</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>上海 虹口区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1034</star_follow_num>
+<star_fan_num>43600</star_fan_num>
+<star_weibo_num>2163</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>葛剑雄</star_nickname>
+<star_info>复旦大学教授</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>上海 浦东新区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>0</star_follow_num>
+<star_fan_num>1018798</star_fan_num>
+<star_weibo_num>5015</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>钱文忠</star_nickname>
+<star_info>复旦大学历史学系教授</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>322</star_follow_num>
+<star_fan_num>4345327</star_fan_num>
+<star_weibo_num>13527</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>唐球一枚</star_nickname>
+<star_info>正处于升学焦虑中 (ノД`)</star_info>
+<star_way>魅族 MX2</star_way>
+<star_area>海外 英国</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>189</star_follow_num>
+<star_fan_num>120</star_fan_num>
+<star_weibo_num>206</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>苏子涵的金毛</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 英国</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>344</star_follow_num>
+<star_fan_num>66</star_fan_num>
+<star_weibo_num>4647</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>一只小奶兔</star_nickname>
+<star_info>女皇。我们陪你到最后。(上一个id是上山入江)</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>397</star_follow_num>
+<star_fan_num>1003</star_fan_num>
+<star_weibo_num>45284</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Emma酱才是路小楠</star_nickname>
+<star_info>两耳不闻窗外事 一心专注陈伟霆</star_info>
+<star_way>微博推荐</star_way>
+<star_area>吉林 延边朝鲜族自治州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>849</star_follow_num>
+<star_fan_num>927</star_fan_num>
+<star_weibo_num>39345</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陪陈伟霆度过漫长岁月</star_nickname>
+<star_info>❤️咦等等你的牙齿好白哦等唯 被他赤子之心打动不脱饭同好fo cp绕道</star_info>
+<star_way>微博推荐</star_way>
+<star_area>四川 成都</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>213</star_follow_num>
+<star_fan_num>366</star_fan_num>
+<star_weibo_num>599</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>青青一支河边草</star_nickname>
+<star_info>初心本命陈伟霆</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>411</star_follow_num>
+<star_fan_num>231</star_fan_num>
+<star_weibo_num>2397</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>花下校书人</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>湖北 宜昌</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>25</star_follow_num>
+<star_fan_num>18</star_fan_num>
+<star_weibo_num>50</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>william素魄</star_nickname>
+<star_info>只为饱饱♡</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 宣武区</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>255</star_follow_num>
+<star_fan_num>1897</star_fan_num>
+<star_weibo_num>3066</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>花果山小火车</star_nickname>
+<star_info>何以慰风尘</star_info>
+<star_way>微博推荐</star_way>
+<star_area>四川 成都</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>643</star_follow_num>
+<star_fan_num>4048</star_fan_num>
+<star_weibo_num>4500</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陈等等-w</star_nickname>
+<star_info>自萌兔</star_info>
+<star_way>微博推荐</star_way>
+<star_area>湖南 长沙</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>460</star_follow_num>
+<star_fan_num>4541</star_fan_num>
+<star_weibo_num>7866</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>南派三叔</star_nickname>
+<star_info>《盗墓笔记》《沙海》《勇者大冒险》等书作者 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>504</star_follow_num>
+<star_fan_num>11861452</star_fan_num>
+<star_weibo_num>1317</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>爱未停-陈伟霆资源博</star_nickname>
+<star_info>陈伟霆应援博主，秒拍达人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>137</star_follow_num>
+<star_fan_num>1194008</star_fan_num>
+<star_weibo_num>37327</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>木子也超然</star_nickname>
+<star_info>随风超然</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>624</star_follow_num>
+<star_fan_num>231</star_fan_num>
+<star_weibo_num>2300</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陳偉霆官方國際歌迷會</star_nickname>
+<star_info>為粉絲們提供William最新行蹤、音樂、相片、視訊、活動花絮、檔案，最新資訊 等。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>80</star_follow_num>
+<star_fan_num>66109</star_fan_num>
+<star_weibo_num>4139</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆粉丝后援会</star_nickname>
+<star_info>陈伟霆官方粉丝后援会官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>348</star_follow_num>
+<star_fan_num>1136361</star_fan_num>
+<star_weibo_num>11550</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>William威廉陈伟霆</star_nickname>
+<star_info>香港英皇艺人陈伟霆</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港 中西区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>640</star_follow_num>
+<star_fan_num>25486302</star_fan_num>
+<star_weibo_num>3134</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>路灯与猫薄荷</star_nickname>
+<star_info>我信仰造物的智慧與人性的光輝。此心光明，不喜為人。進化未完成。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>374</star_follow_num>
+<star_fan_num>47</star_fan_num>
+<star_weibo_num>6891</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Candy旅游看世界</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>438</star_follow_num>
+<star_fan_num>414</star_fan_num>
+<star_weibo_num>1249</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>文十强</star_nickname>
+<star_info>一个人主动的太久原来真的是会累的！</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>678</star_follow_num>
+<star_fan_num>663</star_fan_num>
+<star_weibo_num>3410</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>石器之石器</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>235</star_follow_num>
+<star_fan_num>412</star_fan_num>
+<star_weibo_num>1934</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>徐坚_JX</star_nickname>
+<star_info>中山大学历史学系教授</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>117</star_follow_num>
+<star_fan_num>8128</star_fan_num>
+<star_weibo_num>1922</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>瓦兹河畔的希冀</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1524</star_follow_num>
+<star_fan_num>237</star_fan_num>
+<star_weibo_num>869</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>德dept</star_nickname>
+<star_info>Stun it.</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1760</star_follow_num>
+<star_fan_num>210</star_fan_num>
+<star_weibo_num>891</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中大历史</star_nickname>
+<star_info>中山大學歷史學系官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 珠海</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>442</star_follow_num>
+<star_fan_num>1850</star_fan_num>
+<star_weibo_num>1249</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>我唔系sin</star_nickname>
+<star_info>Don‘t like a BB girl</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>231</star_follow_num>
+<star_fan_num>1017</star_fan_num>
+<star_weibo_num>3250</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>珊珊lbs</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>345</star_follow_num>
+<star_fan_num>244</star_fan_num>
+<star_weibo_num>218</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>CJ_Mingo</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>80</star_follow_num>
+<star_fan_num>39</star_fan_num>
+<star_weibo_num>175</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>锺指黑桃小姐</star_nickname>
+<star_info>【sysu中文】【日本】【懒癌末期】【吃货】【小哇哇哇哇哇】【gazette Rock】</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>620</star_follow_num>
+<star_fan_num>409</star_fan_num>
+<star_weibo_num>4492</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>fu冰</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>395</star_follow_num>
+<star_fan_num>450</star_fan_num>
+<star_weibo_num>352</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>蒸汽bb</star_nickname>
+<star_info>愿平安喜乐</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>344</star_follow_num>
+<star_fan_num>440</star_fan_num>
+<star_weibo_num>405</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>RAYLAN_KWAN</star_nickname>
+<star_info>中山大学 翻译学院/ 香港中文大学 翻译硕士</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>723</star_follow_num>
+<star_fan_num>532</star_fan_num>
+<star_weibo_num>5869</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>杨思敏系知性女青年</star_nickname>
+<star_info>朴有天白天可爱晚上性感茄子型的人字拖…团魂不灭，静候东团合体。Always keep the faith.Hope to the end.入伍就...</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>597</star_follow_num>
+<star_fan_num>1198</star_fan_num>
+<star_weibo_num>4653</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>我很乖不坏坏</star_nickname>
+<star_info>容我捧一掬阳光换你的微笑</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>293</star_follow_num>
+<star_fan_num>437</star_fan_num>
+<star_weibo_num>709</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>MMr_Wing</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>276</star_follow_num>
+<star_fan_num>354</star_fan_num>
+<star_weibo_num>1538</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>阿咸咸酱</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 江门</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>256</star_follow_num>
+<star_fan_num>232</star_fan_num>
+<star_weibo_num>714</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>宅pet大改造</star_nickname>
+<star_info>ma ni ma ni hong～</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1037</star_follow_num>
+<star_fan_num>1096</star_fan_num>
+<star_weibo_num>5822</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Laurindaaa</star_nickname>
+<star_info>锦鲤养殖大户</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>254</star_follow_num>
+<star_fan_num>572</star_fan_num>
+<star_weibo_num>40</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>丸心最讨厌起名字</star_nickname>
+<star_info>海中人 in SYSU</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 佛山</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>125</star_follow_num>
+<star_fan_num>70</star_fan_num>
+<star_weibo_num>9</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>小小小小麟麟</star_nickname>
+<star_info>腼腆，幼稚，爱睡觉。中大2013历史学系，伪学霸，间接性抑郁症患者。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 阳江</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>231</star_follow_num>
+<star_fan_num>188</star_fan_num>
+<star_weibo_num>150</star_weibo_num>
+<star_level>None</star_level>
+</star>
+</follow_list>

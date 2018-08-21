@@ -1,0 +1,291 @@
+<id>黑白face各半</id>
+<follow_list>
+<star>
+<star_nickname>张歆艺</star_nickname>
+<star_info>演员，作品有《北京爱情故事》《新拿什么拯救你我的爱人》《给我一支烟》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>389</star_follow_num>
+<star_fan_num>18524238</star_fan_num>
+<star_weibo_num>3142</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>美食和旅行</star_nickname>
+<star_info>美食博主</star_info>
+<star_way>vivo智能手机</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>55</star_follow_num>
+<star_fan_num>5055954</star_fan_num>
+<star_weibo_num>80415</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>angelababy</star_nickname>
+<star_info>演员、艺人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>716</star_follow_num>
+<star_fan_num>85497796</star_fan_num>
+<star_weibo_num>2660</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>微博股票直播</star_nickname>
+<star_info>微博股票直播官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>104</star_follow_num>
+<star_fan_num>110407</star_fan_num>
+<star_weibo_num>38</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>邓超</star_nickname>
+<star_info>演员、导演邓超</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>229</star_follow_num>
+<star_fan_num>66105041</star_fan_num>
+<star_weibo_num>1043</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>范冰冰</star_nickname>
+<star_info>演员、“爱里的心”公益项目发起人</star_info>
+<star_way>vivo智能手机</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>248</star_follow_num>
+<star_fan_num>61966197</star_fan_num>
+<star_weibo_num>1830</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>贾乃亮</star_nickname>
+<star_info>演员 代表作：《最美的时光》《家产》《拿什么拯救你我的爱人》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>419</star_follow_num>
+<star_fan_num>62652464</star_fan_num>
+<star_weibo_num>4294</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>张馨予</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博推荐</star_way>
+<star_area>江苏 苏州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>938</star_follow_num>
+<star_fan_num>17755379</star_fan_num>
+<star_weibo_num>752</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>翁虹</star_nickname>
+<star_info>香港女艺人 电视剧《春光灿烂猪八戒》 饰妙妙</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>298</star_follow_num>
+<star_fan_num>2343785</star_fan_num>
+<star_weibo_num>3880</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>陈乔恩</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博推荐</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>453</star_follow_num>
+<star_fan_num>60359687</star_fan_num>
+<star_weibo_num>4544</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>上证指数 sh000001</star_nickname>
+<star_info>本行系在对深圳经济特区原六家信用社改组的同时经中国人民银行深圳经济特区分行[87]深人融管字第93号文批准向社...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Dear-迪丽热巴</star_nickname>
+<star_info>嘉行传媒签约演员　</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 静安区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>213</star_follow_num>
+<star_fan_num>40139053</star_fan_num>
+<star_weibo_num>837</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>蒋欣</star_nickname>
+<star_info>演员蒋欣，《天龙八部》饰木婉清、《甄嬛传》饰华妃</star_info>
+<star_way>vivo智能手机</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>94</star_follow_num>
+<star_fan_num>24478599</star_fan_num>
+<star_weibo_num>4717</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>杨明娜</star_nickname>
+<star_info>演员，代表作《那片星空那片海》、《大唐荣耀》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>227</star_follow_num>
+<star_fan_num>652191</star_fan_num>
+<star_weibo_num>5842</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>王晓晨</star_nickname>
+<star_info>演员王晓晨</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>188</star_follow_num>
+<star_fan_num>8129775</star_fan_num>
+<star_weibo_num>791</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>turbosun</star_nickname>
+<star_info>1+1=4</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>165</star_follow_num>
+<star_fan_num>37719530</star_fan_num>
+<star_weibo_num>1006</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>全球娱乐趣事</star_nickname>
+<star_info>知名娱乐博主 娱乐综艺视频自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>99</star_follow_num>
+<star_fan_num>7423920</star_fan_num>
+<star_weibo_num>8383</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>fanxinyan_兮兮</star_nickname>
+<star_info>红十字会博爱医院护士</star_info>
+<star_way>vivo智能手机</star_way>
+<star_area>海外 法国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>595</star_follow_num>
+<star_fan_num>5990</star_fan_num>
+<star_weibo_num>10625</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>吕夏</star_nickname>
+<star_info>演员，《生死线》饰思枫</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>408</star_follow_num>
+<star_fan_num>364355</star_fan_num>
+<star_weibo_num>2493</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>赵丽颖</star_nickname>
+<star_info>演员，代表作品《花千骨》《杉杉来了》《陆贞传奇》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>459</star_follow_num>
+<star_fan_num>60357841</star_fan_num>
+<star_weibo_num>1806</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>GIF馆</star_nickname>
+<star_info>知名搞笑幽默博主 搞笑视频自媒体</star_info>
+<star_way>vivo智能手机</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>382</star_follow_num>
+<star_fan_num>2009353</star_fan_num>
+<star_weibo_num>34321</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>我是娜扎</star_nickname>
+<star_info>演员，代表作《择天记》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>511</star_follow_num>
+<star_fan_num>15045057</star_fan_num>
+<star_weibo_num>1404</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>股海寻龙</star_nickname>
+<star_info>微博股评师 知名财经博主 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>77</star_follow_num>
+<star_fan_num>275768</star_fan_num>
+<star_weibo_num>14435</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>微博股票</star_nickname>
+<star_info>微博股票官方微博</star_info>
+<star_way>vivo智能手机</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1773</star_follow_num>
+<star_fan_num>2907028</star_fan_num>
+<star_weibo_num>17127</star_weibo_num>
+<star_level>6</star_level>
+</star>
+</follow_list>

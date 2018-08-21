@@ -1,0 +1,1203 @@
+<id>肖月xyxy</id>
+<follow_list>
+<star>
+<star_nickname>微博钱包</star_nickname>
+<star_info>微博钱包官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>136</star_follow_num>
+<star_fan_num>24813174</star_fan_num>
+<star_weibo_num>840</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>粉丝红包</star_nickname>
+<star_info>新浪微博 粉丝红包产品 官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>92</star_follow_num>
+<star_fan_num>61147177</star_fan_num>
+<star_weibo_num>2165</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>潘粤明</star_nickname>
+<star_info>潘粤明，影视演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>365</star_follow_num>
+<star_fan_num>3660891</star_fan_num>
+<star_weibo_num>1340</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>赵雅芝</star_nickname>
+<star_info>影视明星赵雅芝</star_info>
+<star_way>微博搜索</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>99</star_follow_num>
+<star_fan_num>7562155</star_fan_num>
+<star_weibo_num>621</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>火山小视频</star_nickname>
+<star_info>北京微播视界科技有限公司火山小视频官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>26</star_follow_num>
+<star_fan_num>4800995</star_fan_num>
+<star_weibo_num>1542</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>蔡文静</star_nickname>
+<star_info>演员 ，代表作剧版《匆匆那年》《画江湖之不良人》</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>501</star_follow_num>
+<star_fan_num>1851211</star_fan_num>
+<star_weibo_num>995</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>邢昭林</star_nickname>
+<star_info>演员邢昭林</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>154</star_follow_num>
+<star_fan_num>10509236</star_fan_num>
+<star_weibo_num>213</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>白皓白浩</star_nickname>
+<star_info>None</star_info>
+<star_way>微博找人</star_way>
+<star_area>辽宁 鞍山</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>67</star_follow_num>
+<star_fan_num>16</star_fan_num>
+<star_weibo_num>0</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>张少华</star_nickname>
+<star_info>演员张少华</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>385</star_follow_num>
+<star_fan_num>188824</star_fan_num>
+<star_weibo_num>428</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>吴刚de微博</star_nickname>
+<star_info>演员吴刚</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>387</star_follow_num>
+<star_fan_num>1772194</star_fan_num>
+<star_weibo_num>386</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>Z-郑成华</star_nickname>
+<star_info>“爽爸”—艺人郑爽的父亲</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>31</star_follow_num>
+<star_fan_num>1013643</star_fan_num>
+<star_weibo_num>152</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>吴磊LEO</star_nickname>
+<star_info>演员，出演电影《阿修罗》、电视剧《斗破苍穹》</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海 黄浦区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>214</star_follow_num>
+<star_fan_num>20695794</star_fan_num>
+<star_weibo_num>875</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>赵海燕</star_nickname>
+<star_info>二人转演员 赵海燕</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>524</star_follow_num>
+<star_fan_num>81399</star_fan_num>
+<star_weibo_num>103</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>宋小宝纯行货</star_nickname>
+<star_info>赵本山徒弟宋小宝</star_info>
+<star_way>微博搜索</star_way>
+<star_area>吉林 通化</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>205</star_follow_num>
+<star_fan_num>6504966</star_fan_num>
+<star_weibo_num>1018</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>何洁</star_nickname>
+<star_info>歌手</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>433</star_follow_num>
+<star_fan_num>6792493</star_fan_num>
+<star_weibo_num>1389</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>陈钰琪Yukee</star_nickname>
+<star_info>演员，《锦绣未央》饰九公主，《香蜜》饰鎏英。</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>42</star_follow_num>
+<star_fan_num>1689256</star_fan_num>
+<star_weibo_num>188</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>穆乐恩</star_nickname>
+<star_info>演员，《锦绣未央》饰白芷，《时间都知道》饰赖俏</star_info>
+<star_way>微博找人</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>73</star_follow_num>
+<star_fan_num>469634</star_fan_num>
+<star_weibo_num>142</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>陈欧</star_nickname>
+<star_info>聚美优品CEO陈欧</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>628</star_follow_num>
+<star_fan_num>47712949</star_fan_num>
+<star_weibo_num>3617</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>谢孟伟</star_nickname>
+<star_info>《喋血孤城》、《小兵张嘎》演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>245</star_follow_num>
+<star_fan_num>1618874</star_fan_num>
+<star_weibo_num>2237</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>何泓姗VivaHo</star_nickname>
+<star_info>演员、摄影师，代表作《如懿传》《匆匆那年》《爱情进化论》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>679</star_follow_num>
+<star_fan_num>1782965</star_fan_num>
+<star_weibo_num>1298</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>石云鹏鹏</star_nickname>
+<star_info>演员石云鹏</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>581</star_follow_num>
+<star_fan_num>109161</star_fan_num>
+<star_weibo_num>521</star_weibo_num>
+<star_level>1</star_level>
+</star>
+<star>
+<star_nickname>王子文Olivia</star_nickname>
+<star_info>王子文，演员、艺人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>301</star_follow_num>
+<star_fan_num>12129737</star_fan_num>
+<star_weibo_num>2402</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>张丹峰</star_nickname>
+<star_info>演员，代表作《花千骨》《爱情自有天意》等</star_info>
+<star_way>微博找人</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>298</star_follow_num>
+<star_fan_num>9347130</star_fan_num>
+<star_weibo_num>1121</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>包贝尔</star_nickname>
+<star_info>青年演员，代表作《致青春》《一路顺疯》《临终囧事》《画壁》等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1152</star_follow_num>
+<star_fan_num>11757827</star_fan_num>
+<star_weibo_num>4095</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>陶慧小朋友</star_nickname>
+<star_info>演员陶慧，代表作宁浩电影《心花路放》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>142</star_follow_num>
+<star_fan_num>893865</star_fan_num>
+<star_weibo_num>651</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>宋茜</star_nickname>
+<star_info>演员、歌手    代表作品：《幻城》《美丽的秘密》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>136</star_follow_num>
+<star_fan_num>26432692</star_fan_num>
+<star_weibo_num>594</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>小陶虹</star_nickname>
+<star_info>演员，曾获电影金鸡奖、华表奖双料影后</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>218</star_follow_num>
+<star_fan_num>1109209</star_fan_num>
+<star_weibo_num>1030</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>演员王佳佳</star_nickname>
+<star_info>演员，代表作：电影《回到被爱的每一天》《致我们终将逝去的青春》等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>547</star_follow_num>
+<star_fan_num>105044</star_fan_num>
+<star_weibo_num>1499</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>韩德君五五</star_nickname>
+<star_info>CBA辽宁队队员 韩德君</star_info>
+<star_way>微博找人</star_way>
+<star_area>辽宁</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>78</star_follow_num>
+<star_fan_num>147506</star_fan_num>
+<star_weibo_num>76</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>LIMYOONA90</star_nickname>
+<star_info>少女时代成员 林允儿（林润娥）</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 韩国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>20</star_follow_num>
+<star_fan_num>4904129</star_fan_num>
+<star_weibo_num>147</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>丁彦雨航</star_nickname>
+<star_info>中国国家男篮队员丁彦雨航</star_info>
+<star_way>微博搜索</star_way>
+<star_area>山东 济南</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>125</star_follow_num>
+<star_fan_num>1031392</star_fan_num>
+<star_weibo_num>99</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>周鹏-Tiger11</star_nickname>
+<star_info>中国男篮国手、CBA广东宏远球员周鹏</star_info>
+<star_way>微博搜索</star_way>
+<star_area>广东 东莞</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>257</star_follow_num>
+<star_fan_num>2564143</star_fan_num>
+<star_weibo_num>1628</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>尹恩惠_Grace</star_nickname>
+<star_info>韩国女演员尹恩惠，作品《想你》、《宫》等。</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 韩国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>10</star_follow_num>
+<star_fan_num>1867301</star_fan_num>
+<star_weibo_num>57</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>金秀贤</star_nickname>
+<star_info>韩国演员，曾主演《月亮怀抱太阳》《Dream High》等热剧</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 韩国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>13</star_follow_num>
+<star_fan_num>11200026</star_fan_num>
+<star_weibo_num>121</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>靳东</star_nickname>
+<star_info>演员，电影《秋雨》电视剧《闯关东》《开天辟地》《密杀名单》等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>399</star_follow_num>
+<star_fan_num>11098670</star_fan_num>
+<star_weibo_num>650</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>斓曦</star_nickname>
+<star_info>演员；电视剧《后宫甄嬛传》沈眉庄的扮演者；   </star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>666</star_follow_num>
+<star_fan_num>1351222</star_fan_num>
+<star_weibo_num>3555</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>黄霄雲Ghost</star_nickname>
+<star_info>第四季《中国好声音》学员黄霄雲</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>144</star_follow_num>
+<star_fan_num>95606</star_fan_num>
+<star_weibo_num>367</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>孙耀琦</star_nickname>
+<star_info>演员孙耀琦</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>171</star_follow_num>
+<star_fan_num>5604799</star_fan_num>
+<star_weibo_num>2642</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>蔡少芬</star_nickname>
+<star_info>香港知名演員蔡少芬，曾演出不少佳作《洛神》、《珠光寶氣》等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>香港 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>351</star_follow_num>
+<star_fan_num>12830563</star_fan_num>
+<star_weibo_num>7891</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>杨力维Yic</star_nickname>
+<star_info>中国青年女篮杨力维</star_info>
+<star_way>微博搜索</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1231</star_follow_num>
+<star_fan_num>21086</star_fan_num>
+<star_weibo_num>176</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>毛晓彤</star_nickname>
+<star_info>演员，作品：甄嬛传、天涯明月刀、微微一笑很倾城、锦绣未央</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>300</star_follow_num>
+<star_fan_num>10633292</star_fan_num>
+<star_weibo_num>1586</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>我是娜扎</star_nickname>
+<star_info>演员，代表作《择天记》</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>511</star_follow_num>
+<star_fan_num>15045053</star_fan_num>
+<star_weibo_num>1404</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>Dear-迪丽热巴</star_nickname>
+<star_info>嘉行传媒签约演员　</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海 静安区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>213</star_follow_num>
+<star_fan_num>40139052</star_fan_num>
+<star_weibo_num>837</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>李雨轩一一大春</star_nickname>
+<star_info>演员，代表作《思美人》、《冰与火的青春》、《陆贞传奇》等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>309</star_follow_num>
+<star_fan_num>241149</star_fan_num>
+<star_weibo_num>1195</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>熊乃瑾xiong</star_nickname>
+<star_info>演员 熊乃瑾</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>413</star_follow_num>
+<star_fan_num>3385004</star_fan_num>
+<star_weibo_num>3536</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>贝贝Singin</star_nickname>
+<star_info>第四季《中国好声音》学员贝贝</star_info>
+<star_way>微博找人</star_way>
+<star_area>湖北</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>256</star_follow_num>
+<star_fan_num>1069967</star_fan_num>
+<star_weibo_num>1704</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陈梓童QueenT</star_nickname>
+<star_info>第四季《中国好声音》学员陈梓童</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>184</star_follow_num>
+<star_fan_num>1052323</star_fan_num>
+<star_weibo_num>473</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陳意涵</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>325</star_follow_num>
+<star_fan_num>18489538</star_fan_num>
+<star_weibo_num>1725</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>李威Leewei</star_nickname>
+<star_info>台湾知名演员、歌手</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>380</star_follow_num>
+<star_fan_num>3044931</star_fan_num>
+<star_weibo_num>1289</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>潘之琳</star_nickname>
+<star_info>潘之琳，演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>280</star_follow_num>
+<star_fan_num>942578</star_fan_num>
+<star_weibo_num>1294</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>袁弘</star_nickname>
+<star_info>演员，作品《步步惊心》《射雕英雄传》 等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>721</star_follow_num>
+<star_fan_num>40029874</star_fan_num>
+<star_weibo_num>4738</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>于和伟</star_nickname>
+<star_info>演员于和伟</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>353</star_follow_num>
+<star_fan_num>8934504</star_fan_num>
+<star_weibo_num>2173</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>倪妮V</star_nickname>
+<star_info>演员倪妮，《金陵十三钗》饰演女主角玉墨</star_info>
+<star_way>微博找人</star_way>
+<star_area>江苏 南京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>331</star_follow_num>
+<star_fan_num>19177588</star_fan_num>
+<star_weibo_num>1019</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>张晓龙</star_nickname>
+<star_info>演员，出演《后宫甄嬛传》《金婚》《暗香》等</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>878</star_follow_num>
+<star_fan_num>7491199</star_fan_num>
+<star_weibo_num>1907</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>贾静雯</star_nickname>
+<star_info>知名演员贾静雯</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>201</star_follow_num>
+<star_fan_num>21615530</star_fan_num>
+<star_weibo_num>1140</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>徐璐LULU</star_nickname>
+<star_info>青年演员徐璐</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>439</star_follow_num>
+<star_fan_num>10402529</star_fan_num>
+<star_weibo_num>1577</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>王子_邱勝翊</star_nickname>
+<star_info>知名演员歌手</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>828</star_follow_num>
+<star_fan_num>5007244</star_fan_num>
+<star_weibo_num>6942</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>贾青</star_nickname>
+<star_info>演员，主演《妻子的谎言》、《少年四大名捕》、《镖门》等剧</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>628</star_follow_num>
+<star_fan_num>9668894</star_fan_num>
+<star_weibo_num>3191</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>金世佳</star_nickname>
+<star_info>演员，主要作品《爱情公寓》《加油！网球王子》等</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>226</star_follow_num>
+<star_fan_num>3989296</star_fan_num>
+<star_weibo_num>1633</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陈赫</star_nickname>
+<star_info>演员，热播剧《爱情公寓》里饰演曾小贤</star_info>
+<star_way>微博搜索</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>800</star_follow_num>
+<star_fan_num>48265258</star_fan_num>
+<star_weibo_num>4357</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>王宝强</star_nickname>
+<star_info>演员，代表作品《天下无贼》《道士下山》《士兵突击》《泰囧》等</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>473</star_follow_num>
+<star_fan_num>29058460</star_fan_num>
+<star_weibo_num>2151</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>井柏然</star_nickname>
+<star_info>歌手，演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>215</star_follow_num>
+<star_fan_num>21673129</star_fan_num>
+<star_weibo_num>958</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>贺天举</star_nickname>
+<star_info>CBA辽宁盼盼篮球队球员  李宁签约球员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>313</star_follow_num>
+<star_fan_num>1110183</star_fan_num>
+<star_weibo_num>40</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>李小萌ANNABEL</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>304</star_follow_num>
+<star_fan_num>1650454</star_fan_num>
+<star_weibo_num>1267</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>杨鸣12</star_nickname>
+<star_info>CBA辽宁队队员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>298</star_follow_num>
+<star_fan_num>637857</star_fan_num>
+<star_weibo_num>430</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>22心自在</star_nickname>
+<star_info>我从未长大，但我从来没有停止过成长！</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>192</star_follow_num>
+<star_fan_num>465776</star_fan_num>
+<star_weibo_num>391</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>郭艾伦</star_nickname>
+<star_info>中国男篮队员郭艾伦</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>111</star_follow_num>
+<star_fan_num>2093736</star_fan_num>
+<star_weibo_num>339</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陈坤</star_nickname>
+<star_info>著名男演员，代表作《龙门飞甲》《画皮》等，行走的力量发起者</star_info>
+<star_way>微博搜索</star_way>
+<star_area>重庆</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>525</star_follow_num>
+<star_fan_num>82214250</star_fan_num>
+<star_weibo_num>5285</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>谭维维</star_nickname>
+<star_info>摇滚歌者，演员。代表作《谭某某》、《3》、《秘密花园》。</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>941</star_follow_num>
+<star_fan_num>7725464</star_fan_num>
+<star_weibo_num>2612</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>姚晨</star_nickname>
+<star_info>演员，联合国难民署中国亲善大使。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>462</star_follow_num>
+<star_fan_num>80092716</star_fan_num>
+<star_weibo_num>9462</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>演员杨志刚</star_nickname>
+<star_info>演员杨志刚</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>476</star_follow_num>
+<star_fan_num>1115025</star_fan_num>
+<star_weibo_num>4595</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>百克力</star_nickname>
+<star_info>SMG主持人</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>483</star_follow_num>
+<star_fan_num>1241420</star_fan_num>
+<star_weibo_num>3471</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>张杨果而</star_nickname>
+<star_info>著名主持人、演员，影视代表作：《杉杉来了》</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>530</star_follow_num>
+<star_fan_num>1589402</star_fan_num>
+<star_weibo_num>5800</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>秦海璐</star_nickname>
+<star_info>艺人，获第38届金马奖最佳女主角奖</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>227</star_follow_num>
+<star_fan_num>6777467</star_fan_num>
+<star_weibo_num>1356</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>胡彦斌</star_nickname>
+<star_info>知名歌手</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>263</star_follow_num>
+<star_fan_num>4494995</star_fan_num>
+<star_weibo_num>540</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>周冬雨</star_nickname>
+<star_info>影视演员周冬雨</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>324</star_follow_num>
+<star_fan_num>19309446</star_fan_num>
+<star_weibo_num>1366</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>蕾拉小姐</star_nickname>
+<star_info>旅行者镜头首席创意官 玮奕国际设计艺术总监</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>上海 静安区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>287</star_follow_num>
+<star_fan_num>4447965</star_fan_num>
+<star_weibo_num>729</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>黄宥明</star_nickname>
+<star_info>演员，出演电影《80后》明远、《婚巢》、《离爱》、《女人花》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>291</star_follow_num>
+<star_fan_num>4959439</star_fan_num>
+<star_weibo_num>3130</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>张佳宁</star_nickname>
+<star_info>演员，代表作《如懿传》《海上牧云记》等</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>433</star_follow_num>
+<star_fan_num>4064445</star_fan_num>
+<star_weibo_num>1771</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>馬天宇</star_nickname>
+<star_info>歌手，演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>395</star_follow_num>
+<star_fan_num>25596543</star_fan_num>
+<star_weibo_num>3385</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>孙艺洲</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>554</star_follow_num>
+<star_fan_num>10312431</star_fan_num>
+<star_weibo_num>1406</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>杨雪</star_nickname>
+<star_info>演员杨雪，主要作品：《人间正道是沧桑》、《蝴蝶飞飞》等。</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>155</star_follow_num>
+<star_fan_num>534048</star_fan_num>
+<star_weibo_num>2103</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>李光洁</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>426</star_follow_num>
+<star_fan_num>5409975</star_fan_num>
+<star_weibo_num>2642</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>张歆艺</star_nickname>
+<star_info>演员，作品有《北京爱情故事》《新拿什么拯救你我的爱人》《给我一支烟》</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>389</star_follow_num>
+<star_fan_num>18524237</star_fan_num>
+<star_weibo_num>3142</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>林更新</star_nickname>
+<star_info>演员林更新</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>657</star_follow_num>
+<star_fan_num>42233364</star_fan_num>
+<star_weibo_num>2020</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>娄艺潇</star_nickname>
+<star_info>演员，代表作《爱情公寓》</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>294</star_follow_num>
+<star_fan_num>15148679</star_fan_num>
+<star_weibo_num>2239</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>DODO曹颖</star_nickname>
+<star_info>知名演员、主持人曹颖</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>205</star_follow_num>
+<star_fan_num>5498350</star_fan_num>
+<star_weibo_num>3780</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>黄晓明</star_nickname>
+<star_info>演员，明天爱心基金发起人</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>641</star_follow_num>
+<star_fan_num>56059831</star_fan_num>
+<star_weibo_num>3342</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>謝依霖HOLD住姐</star_nickname>
+<star_info>金星娛樂 艺人</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>298</star_follow_num>
+<star_fan_num>8589256</star_fan_num>
+<star_weibo_num>1148</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>邓家佳</star_nickname>
+<star_info>内地知名女演员，代表作《爱情公寓2》、《熊猫大侠》、《十全九美》、《风声》等</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>48</star_follow_num>
+<star_fan_num>11441711</star_fan_num>
+<star_weibo_num>134</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>周放是个小欢喜</star_nickname>
+<star_info>演员周放，在新《还珠格格》 饰演柳红</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>438</star_follow_num>
+<star_fan_num>527712</star_fan_num>
+<star_weibo_num>916</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>郑恺</star_nickname>
+<star_info>华谊兄弟旗下艺人，上海话剧艺术中心演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海 黄浦区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>574</star_follow_num>
+<star_fan_num>39823158</star_fan_num>
+<star_weibo_num>4140</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>angelababy</star_nickname>
+<star_info>演员、艺人</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>716</star_follow_num>
+<star_fan_num>85497798</star_fan_num>
+<star_weibo_num>2660</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>薛佳凝</star_nickname>
+<star_info>演员薛佳凝</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>219</star_follow_num>
+<star_fan_num>2315762</star_fan_num>
+<star_weibo_num>1366</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>张子枫</star_nickname>
+<star_info>演员，作品：唐人街探案、同桌的你、唐山大地震；小别离、心术等</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>696</star_follow_num>
+<star_fan_num>3821973</star_fan_num>
+<star_weibo_num>790</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>张韶涵</star_nickname>
+<star_info>台湾歌手</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>362</star_follow_num>
+<star_fan_num>16480761</star_fan_num>
+<star_weibo_num>1524</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>海清</star_nickname>
+<star_info>演员，联合国妇女署亲善大使</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>144</star_follow_num>
+<star_fan_num>11156867</star_fan_num>
+<star_weibo_num>1850</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>高圆圆</star_nickname>
+<star_info>演员高圆圆</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>279</star_follow_num>
+<star_fan_num>49190079</star_fan_num>
+<star_weibo_num>1224</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>朱亚文</star_nickname>
+<star_info>演员，代表作品《闯关东》、《远去的飞鹰》、《我们的法兰西岁月》等</star_info>
+<star_way>三星 GALAXY S5</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>132</star_follow_num>
+<star_fan_num>9952487</star_fan_num>
+<star_weibo_num>780</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>刘若英</star_nickname>
+<star_info>歌手</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>37</star_follow_num>
+<star_fan_num>23326610</star_fan_num>
+<star_weibo_num>4573</star_weibo_num>
+<star_level>7</star_level>
+</star>
+</follow_list>

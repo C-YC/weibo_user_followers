@@ -1,0 +1,1203 @@
+<id>1箱橙子</id>
+<follow_list>
+<star>
+<star_nickname>酷酷的滕</star_nickname>
+<star_info>鼓山影视 编剧 滕哲</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>255</star_follow_num>
+<star_fan_num>6249881</star_fan_num>
+<star_weibo_num>237</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>三万沈万三</star_nickname>
+<star_info>神山高中古典部</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>214</star_follow_num>
+<star_fan_num>66283</star_fan_num>
+<star_weibo_num>319</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>可乐aHao</star_nickname>
+<star_info>喝可乐嘛</star_info>
+<star_way>微博搜索</star_way>
+<star_area>浙江</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>19</star_follow_num>
+<star_fan_num>1058</star_fan_num>
+<star_weibo_num>21</star_weibo_num>
+<star_level>1</star_level>
+</star>
+<star>
+<star_nickname>魏大勋</star_nickname>
+<star_info>魏大勋，毕业于中央戏剧学院表演系。代表作：《苏菲日记》《毛岸英》《一又二分之一的夏天》《栀子花开2015》等。</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>Bj77777</star_nickname>
+<star_info>一个嗜好太多能力太小的普通人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>14</star_follow_num>
+<star_fan_num>13</star_fan_num>
+<star_weibo_num>103</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>SavisLook</star_nickname>
+<star_info>时尚达人 音乐视频自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>海外 美国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>266</star_follow_num>
+<star_fan_num>2637234</star_fan_num>
+<star_weibo_num>2024</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>仙某某</star_nickname>
+<star_info>熊猫直播签约主播 知名游戏博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>重庆 渝中区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>47</star_follow_num>
+<star_fan_num>858623</star_fan_num>
+<star_weibo_num>266</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>小野妹子学吐槽</star_nickname>
+<star_info>微博知名博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>61</star_follow_num>
+<star_fan_num>16390024</star_fan_num>
+<star_weibo_num>16944</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>韩雪</star_nickname>
+<star_info>内地女艺人</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>348</star_follow_num>
+<star_fan_num>9491985</star_fan_num>
+<star_weibo_num>4021</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>WHaollo</star_nickname>
+<star_info>总有一天会不需要简介 ✨</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>23</star_follow_num>
+<star_fan_num>10634</star_fan_num>
+<star_weibo_num>17</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>楼夹摩</star_nickname>
+<star_info>知名搞笑幽默博主 微博签约自媒体</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>江苏</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>160</star_follow_num>
+<star_fan_num>1438156</star_fan_num>
+<star_weibo_num>1005</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>梓伊姐姐</star_nickname>
+<star_info>💓  约拍私信  💓</star_info>
+<star_way>微博找人</star_way>
+<star_area>吉林 吉林</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>707</star_follow_num>
+<star_fan_num>7909</star_fan_num>
+<star_weibo_num>196</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>长春约拍</star_nickname>
+<star_info>长春本地约拍平台，致力于发掘更多优秀摄影师与摄影爱好者，推送高质量的摄影作品。</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>叫我泡泡哥哥</star_nickname>
+<star_info>摄影博主 中国图库签约摄影师</star_info>
+<star_way>微博找人</star_way>
+<star_area>吉林</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>547</star_follow_num>
+<star_fan_num>3657</star_fan_num>
+<star_weibo_num>177</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>林小宅-</star_nickname>
+<star_info>向日宅物创始人</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>351</star_follow_num>
+<star_fan_num>4938105</star_fan_num>
+<star_weibo_num>2006</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>贾乃亮</star_nickname>
+<star_info>演员 代表作：《最美的时光》《家产》《拿什么拯救你我的爱人》</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>419</star_follow_num>
+<star_fan_num>62681193</star_fan_num>
+<star_weibo_num>4294</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>绿帽社</star_nickname>
+<star_info>工作人员把话筒递给这位朋友，来说出你的故事。</star_info>
+<star_way>微博搜索</star_way>
+<star_area>海外</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>22</star_follow_num>
+<star_fan_num>4264157</star_fan_num>
+<star_weibo_num>4356</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>存在感像小号的大号</star_nickname>
+<star_info>不怕，不悔</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>79</star_follow_num>
+<star_fan_num>158</star_fan_num>
+<star_weibo_num>33</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>喜儿爆炸聪明</star_nickname>
+<star_info>好喜欢六月的喜儿</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>25</star_follow_num>
+<star_fan_num>11</star_fan_num>
+<star_weibo_num>11</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>不善言辞的六月里</star_nickname>
+<star_info>心情好的时候话比较多</star_info>
+<star_way>微博搜索</star_way>
+<star_area>山东 青岛</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>28</star_follow_num>
+<star_fan_num>141</star_fan_num>
+<star_weibo_num>36</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>蛋蛋解说</star_nickname>
+<star_info>虎牙直播签约主播 知名游戏博主 游戏视频自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>653</star_follow_num>
+<star_fan_num>5062146</star_fan_num>
+<star_weibo_num>358</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>易烫YCC</star_nickname>
+<star_info>快美妆签约红人 微博美妆博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 英国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1093</star_follow_num>
+<star_fan_num>949347</star_fan_num>
+<star_weibo_num>2379</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>肖潇噢</star_nickname>
+<star_info>我不太喜欢现在的自己也不太想回到过去</star_info>
+<star_way>微博搜索</star_way>
+<star_area>四川 成都</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>250</star_follow_num>
+<star_fan_num>1668</star_fan_num>
+<star_weibo_num>452</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>微博安全中心</star_nickname>
+<star_info>新浪微博安全中心官方微博</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>171</star_follow_num>
+<star_fan_num>28418636</star_fan_num>
+<star_weibo_num>457</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>贴吧君</star_nickname>
+<star_info>微博知名搞笑博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>617</star_follow_num>
+<star_fan_num>6913615</star_fan_num>
+<star_weibo_num>7864</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>马天宇最新动态追踪</star_nickname>
+<star_info>欢迎访问本条新鲜事！马天宇相关资讯、动态持续更新中~~~快来关注吧！</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>费启鸣</star_nickname>
+<star_info>感谢所有相遇。工作请联系：feiqimingjob@126.com</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>辽宁 大连</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>117</star_follow_num>
+<star_fan_num>4724089</star_fan_num>
+<star_weibo_num>101</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>齊娸</star_nickname>
+<star_info>十年饮冰 难凉热血</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>安徽 合肥</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>455</star_follow_num>
+<star_fan_num>495</star_fan_num>
+<star_weibo_num>19</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>优趣柯基</star_nickname>
+<star_info>知名数码博主 数码视频自媒体</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>山东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1248</star_follow_num>
+<star_fan_num>49459</star_fan_num>
+<star_weibo_num>305</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>sunmtaek_</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>312</star_follow_num>
+<star_fan_num>267</star_fan_num>
+<star_weibo_num>169</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>橙酱土豆加豆腐变态辣</star_nickname>
+<star_info>电视剧电影动漫 备份</star_info>
+<star_way>微博搜索</star_way>
+<star_area>江苏 常州</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>10</star_follow_num>
+<star_fan_num>111</star_fan_num>
+<star_weibo_num>161</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>人民网</star_nickname>
+<star_info>人民网法人微博</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>4566</star_follow_num>
+<star_fan_num>40322988</star_fan_num>
+<star_weibo_num>129949</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>我们读书吧</star_nickname>
+<star_info>知名读物博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>117</star_follow_num>
+<star_fan_num>3468365</star_fan_num>
+<star_weibo_num>59447</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>稀土部队</star_nickname>
+<star_info>醒醒妈妈</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>335</star_follow_num>
+<star_fan_num>27495454</star_fan_num>
+<star_weibo_num>1204</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>董浩叔叔爱书画</star_nickname>
+<star_info>画家，央视著名主持人董浩</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>32</star_follow_num>
+<star_fan_num>567481</star_fan_num>
+<star_weibo_num>472</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>William威廉陈伟霆最新动态追踪</star_nickname>
+<star_info>微博太多，看不过来。缺少霆光，跟踪不到William威廉陈伟霆的最新动态。那就来关注他的新鲜事吧，每天更新，美图...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>万茜</star_nickname>
+<star_info>演员万茜</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>323</star_follow_num>
+<star_fan_num>2469650</star_fan_num>
+<star_weibo_num>1498</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>全是吃货</star_nickname>
+<star_info>知名美食博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>广东 深圳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>39</star_follow_num>
+<star_fan_num>3112385</star_fan_num>
+<star_weibo_num>191</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>汤晶媚AM</star_nickname>
+<star_info>演员汤晶媚</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>122</star_follow_num>
+<star_fan_num>5307428</star_fan_num>
+<star_weibo_num>605</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>Remember_W陈伟霆精彩站</star_nickname>
+<star_info>陈伟霆 应援博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>122</star_follow_num>
+<star_fan_num>35032</star_fan_num>
+<star_weibo_num>1424</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>廖效浓</star_nickname>
+<star_info>知名音乐博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>174</star_follow_num>
+<star_fan_num>196482</star_fan_num>
+<star_weibo_num>404</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>马天宇工作室</star_nickname>
+<star_info>马天宇工作室</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>125</star_follow_num>
+<star_fan_num>557972</star_fan_num>
+<star_weibo_num>2364</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>李溪芮</star_nickname>
+<star_info>嘉行传媒签约演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>63</star_follow_num>
+<star_fan_num>6051919</star_fan_num>
+<star_weibo_num>435</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>潘粤明</star_nickname>
+<star_info>潘粤明，影视演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>365</star_follow_num>
+<star_fan_num>3648623</star_fan_num>
+<star_weibo_num>1334</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>马天宇</star_nickname>
+<star_info>马天宇，中国内地人气男演员、歌手。代表作品：歌曲《该死的温柔》《兰铃曲》《手花》 电视剧《幻城》《古剑奇谭...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>张韶涵</star_nickname>
+<star_info>台湾歌手</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>361</star_follow_num>
+<star_fan_num>16393433</star_fan_num>
+<star_weibo_num>1521</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>故事馆长</star_nickname>
+<star_info>每晚为你讲故事的人，是我</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>44</star_follow_num>
+<star_fan_num>1269833</star_fan_num>
+<star_weibo_num>725</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>IAMWILL-1121陈伟霆图博</star_nickname>
+<star_info>#陈伟霆#超级话题粉丝大咖</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>3</star_follow_num>
+<star_fan_num>31298</star_fan_num>
+<star_weibo_num>1330</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>段子楼</star_nickname>
+<star_info>微博知名文字创意推广人</star_info>
+<star_way>微博找人</star_way>
+<star_area>四川 成都</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1923</star_follow_num>
+<star_fan_num>4164500</star_fan_num>
+<star_weibo_num>34887</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>鲜衣美食君</star_nickname>
+<star_info>知名美食博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>80</star_follow_num>
+<star_fan_num>6182541</star_fan_num>
+<star_weibo_num>6414</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>APP菌</star_nickname>
+<star_info>知名互联网资讯博主 微博知名科普视频博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>165</star_follow_num>
+<star_fan_num>5404134</star_fan_num>
+<star_weibo_num>1482</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>新华网</star_nickname>
+<star_info>新华网法人微博</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 西城区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>798</star_follow_num>
+<star_fan_num>32085316</star_fan_num>
+<star_weibo_num>70718</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>六六</star_nickname>
+<star_info>知名女作家，代表作《王贵与安娜》、《双面胶》、《蜗居》、《心术》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>上海 浦东新区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>269</star_follow_num>
+<star_fan_num>12249330</star_fan_num>
+<star_weibo_num>19191</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>汪东城</star_nickname>
+<star_info>歌手、演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1141</star_follow_num>
+<star_fan_num>16250531</star_fan_num>
+<star_weibo_num>4794</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>米米醬台日小店舖</star_nickname>
+<star_info>淘寶店鋪：米米醬小店舖，大米是台灣人，固定每個月團美瞳，不是每個美瞳品牌都會代的，大米只推薦覺得自己有用...</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>434</star_follow_num>
+<star_fan_num>18215</star_fan_num>
+<star_weibo_num>1228</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>鹿人三千</star_nickname>
+<star_info>太和二幼“讲故事小能手”大赛大班组银奖获得者</star_info>
+<star_way>微博搜索</star_way>
+<star_area>四川 成都</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>217</star_follow_num>
+<star_fan_num>12112</star_fan_num>
+<star_weibo_num>479</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>透明人GlassMan</star_nickname>
+<star_info>短视频节目《透明人》官方微博</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>31</star_follow_num>
+<star_fan_num>425883</star_fan_num>
+<star_weibo_num>171</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>龚俊Simon</star_nickname>
+<star_info>演员，代表作《盛势》《醉玲珑》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>四川 成都</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>121</star_follow_num>
+<star_fan_num>1012370</star_fan_num>
+<star_weibo_num>130</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>張震</star_nickname>
+<star_info>演员张震</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>409</star_follow_num>
+<star_fan_num>1679674</star_fan_num>
+<star_weibo_num>471</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>吴肇辉-辉子</star_nickname>
+<star_info>知名音乐博主 爱奇艺《中国有嘻哈》40强</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>176</star_follow_num>
+<star_fan_num>416605</star_fan_num>
+<star_weibo_num>1637</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>梁洁Little</star_nickname>
+<star_info>华策影视旗下艺人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>173</star_follow_num>
+<star_fan_num>2215877</star_fan_num>
+<star_weibo_num>213</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>零食少女</star_nickname>
+<star_info>知名美食博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>广东 深圳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>120</star_follow_num>
+<star_fan_num>2638613</star_fan_num>
+<star_weibo_num>1422</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>李银河</star_nickname>
+<star_info>中国著名社会学家</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>177</star_follow_num>
+<star_fan_num>1871272</star_fan_num>
+<star_weibo_num>5106</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>郑合惠子</star_nickname>
+<star_info>演员 代表作 《奇星记》《夏至未至》《名侦探狄仁杰》等</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>91</star_follow_num>
+<star_fan_num>4337887</star_fan_num>
+<star_weibo_num>226</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>Jony-J</star_nickname>
+<star_info>音乐人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>江苏 南京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>462</star_follow_num>
+<star_fan_num>2117154</star_fan_num>
+<star_weibo_num>623</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>滿舒克_</star_nickname>
+<star_info>摩登天空MDSK厂牌旗下艺人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>117</star_follow_num>
+<star_fan_num>554616</star_fan_num>
+<star_weibo_num>238</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>你的男孩T_T</star_nickname>
+<star_info>音乐人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>108</star_follow_num>
+<star_fan_num>3147637</star_fan_num>
+<star_weibo_num>1179</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>Daghe</star_nickname>
+<star_info>头像是被姥姥抱着</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>433</star_follow_num>
+<star_fan_num>1985760</star_fan_num>
+<star_weibo_num>4173</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆后援会东北分会</star_nickname>
+<star_info>陈伟霆内地官方后援会东北分会 总会地址http://weibo.com/eegfamily   WELOVEWILLIAM 陳偉霆官方後援會❤️ 转载官...</star_info>
+<star_way>微博搜索</star_way>
+<star_area>黑龙江 哈尔滨</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>186</star_follow_num>
+<star_fan_num>24756</star_fan_num>
+<star_weibo_num>8920</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>waiting等等_William</star_nickname>
+<star_info>不知道夸说什么上天下地 若有神 你便是神</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>上海 黄浦区</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>254</star_follow_num>
+<star_fan_num>751</star_fan_num>
+<star_weibo_num>6970</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>W_Time工作室</star_nickname>
+<star_info>陈伟霆 应援博主</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>香港 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>149</star_follow_num>
+<star_fan_num>266481</star_fan_num>
+<star_weibo_num>7590</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>阿花花酱</star_nickname>
+<star_info>时尚达人 知名美妆博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>江苏</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>565</star_follow_num>
+<star_fan_num>2707688</star_fan_num>
+<star_weibo_num>5597</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>雨滴_Williamchan陈伟霆个站</star_nickname>
+<star_info>陈伟霆 应援博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>52</star_follow_num>
+<star_fan_num>24678</star_fan_num>
+<star_weibo_num>1900</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>颜如晶</star_nickname>
+<star_info>《奇葩说》辩手 颜如晶</star_info>
+<star_way>微博搜索</star_way>
+<star_area>海外 马来西亚</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>189</star_follow_num>
+<star_fan_num>1598517</star_fan_num>
+<star_weibo_num>1051</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>邱晨虫仔</star_nickname>
+<star_info>米果文化COO 《奇葩说》辩手 微博签约自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1491</star_follow_num>
+<star_fan_num>1529655</star_fan_num>
+<star_weibo_num>4176</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>侯明昊Neo</star_nickname>
+<star_info>演员、 歌手</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>133</star_follow_num>
+<star_fan_num>10901301</star_fan_num>
+<star_weibo_num>465</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆着迷</star_nickname>
+<star_info>曾经我们对陈伟霆的角色表白，现在我们为陈伟霆的音乐着迷。</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>豆瓣说</star_nickname>
+<star_info>微博知名博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>232</star_follow_num>
+<star_fan_num>5571821</star_fan_num>
+<star_weibo_num>7736</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>谭松韵seven</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>146</star_follow_num>
+<star_fan_num>11966845</star_fan_num>
+<star_weibo_num>632</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>宁静</star_nickname>
+<star_info>知名演员宁静。代表作：电影《红河谷》电视剧《孝庄秘史》等。</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>295</star_follow_num>
+<star_fan_num>15793992</star_fan_num>
+<star_weibo_num>1679</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>韩日吐槽君</star_nickname>
+<star_info>知名搞笑幽默博主</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>24</star_follow_num>
+<star_fan_num>826080</star_fan_num>
+<star_weibo_num>8099</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>大欧洲吐槽君</star_nickname>
+<star_info>微博知名搞笑幽默博主</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>海外 英国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>31</star_follow_num>
+<star_fan_num>1147782</star_fan_num>
+<star_weibo_num>9110</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>蔡康永</star_nickname>
+<star_info>台湾知名节目主持人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1951</star_follow_num>
+<star_fan_num>35487777</star_fan_num>
+<star_weibo_num>1023</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>学徒王自健</star_nickname>
+<star_info>第二班相声演员王自健</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>362</star_follow_num>
+<star_fan_num>2895618</star_fan_num>
+<star_weibo_num>9990</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>池子池子大池子</star_nickname>
+<star_info>《今晚80后脱口秀》嘉宾、脱口秀表演者</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>295</star_follow_num>
+<star_fan_num>2300857</star_fan_num>
+<star_weibo_num>1313</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>李诞</star_nickname>
+<star_info>诗人、谐星、作家，作品《笑场》</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>647</star_follow_num>
+<star_fan_num>3510348</star_fan_num>
+<star_weibo_num>5510</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>草图君</star_nickname>
+<star_info>独立音乐人 直播红人 知名综艺博主</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>河北</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>491</star_follow_num>
+<star_fan_num>7279887</star_fan_num>
+<star_weibo_num>6869</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>杨幂</star_nickname>
+<star_info>演员，代表作《宫》《仙剑奇侠传三》《我是证人》等</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>579</star_follow_num>
+<star_fan_num>79981687</star_fan_num>
+<star_weibo_num>3661</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>科技带你走进生活</star_nickname>
+<star_info>微博泛科普视频自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1</star_follow_num>
+<star_fan_num>106874</star_fan_num>
+<star_weibo_num>3682</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>买买菌</star_nickname>
+<star_info>时尚达人 微博知名博主 微博签约自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1201</star_follow_num>
+<star_fan_num>3044641</star_fan_num>
+<star_weibo_num>8661</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>可可不剧荒</star_nickname>
+<star_info>知名电影博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>30</star_follow_num>
+<star_fan_num>1910186</star_fan_num>
+<star_weibo_num>1141</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>舒淇</star_nickname>
+<star_info>香港知名影星</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>378</star_follow_num>
+<star_fan_num>36102201</star_fan_num>
+<star_weibo_num>5972</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>环球网</star_nickname>
+<star_info>环球网微博</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1046</star_follow_num>
+<star_fan_num>7160012</star_fan_num>
+<star_weibo_num>53179</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>是趣多多呀</star_nickname>
+<star_info>淘宝店：钱包黑洞</star_info>
+<star_way>微博搜索</star_way>
+<star_area>海外</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>201</star_follow_num>
+<star_fan_num>70053</star_fan_num>
+<star_weibo_num>377</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>Hidress</star_nickname>
+<star_info>时尚达人 时尚美妆视频自媒体</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>海外 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>55</star_follow_num>
+<star_fan_num>224019</star_fan_num>
+<star_weibo_num>170</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>Y杨小茗Diana</star_nickname>
+<star_info>赌书消得泼茶香，当时只道是寻常</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>90</star_follow_num>
+<star_fan_num>21</star_fan_num>
+<star_weibo_num>77</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>谷大白话</star_nickname>
+<star_info>脱口秀译者</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1319</star_follow_num>
+<star_fan_num>9196802</star_fan_num>
+<star_weibo_num>29104</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>北美吐槽君</star_nickname>
+<star_info>知名搞笑幽默博主</star_info>
+<star_way>微博搜索</star_way>
+<star_area>海外 美国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>40</star_follow_num>
+<star_fan_num>5506250</star_fan_num>
+<star_weibo_num>46852</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>陈伟霆</star_nickname>
+<star_info>@William威廉陈伟霆 1985年11月21日出生于香港，流行歌手、演员、主持人。03年因参加选秀进入娱乐圈，发行6张个...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>W扣酱W</star_nickname>
+<star_info>知名娱乐博主</star_info>
+<star_way>iPhone 7</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>422</star_follow_num>
+<star_fan_num>31764</star_fan_num>
+<star_weibo_num>10341</star_weibo_num>
+<star_level>6</star_level>
+</star>
+</follow_list>
