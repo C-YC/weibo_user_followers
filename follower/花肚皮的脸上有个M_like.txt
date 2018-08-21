@@ -1,0 +1,1179 @@
+<id>花肚皮的脸上有个M</id>
+<follow_list>
+<star>
+<star_nickname>酥饼大人</star_nickname>
+<star_info>微博知名萌宠视频博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 虹口区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>560</star_follow_num>
+<star_fan_num>4274463</star_fan_num>
+<star_weibo_num>1830</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>松冈茉优应援团</star_nickname>
+<star_info>作孽造情敌，吉祥物白本彩奈和原菜乃华。</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>64</star_follow_num>
+<star_fan_num>24272</star_fan_num>
+<star_weibo_num>2167</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>混乱博物馆</star_nickname>
+<star_info>《混乱博物馆》作者 泛科普视频自媒体 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>66</star_follow_num>
+<star_fan_num>1046509</star_fan_num>
+<star_weibo_num>222</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>柴知道</star_nickname>
+<star_info>知名科学科普博主 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>287</star_follow_num>
+<star_fan_num>1967622</star_fan_num>
+<star_weibo_num>900</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>ORICO</star_nickname>
+<star_info>深圳市元创时代科技有限公司官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>284</star_follow_num>
+<star_fan_num>307973</star_fan_num>
+<star_weibo_num>3616</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>耕升显卡</star_nickname>
+<star_info>耕升显卡官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>579</star_follow_num>
+<star_fan_num>3850</star_fan_num>
+<star_weibo_num>1503</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>淘宝</star_nickname>
+<star_info>淘宝官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>浙江</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>110</star_follow_num>
+<star_fan_num>5584635</star_fan_num>
+<star_weibo_num>9724</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>让红包飞</star_nickname>
+<star_info>新浪微博品牌活动   让红包飞官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>704</star_follow_num>
+<star_fan_num>30378119</star_fan_num>
+<star_weibo_num>8362</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>央视财经是真的吗</star_nickname>
+<star_info>中央电视台央视财经频道《是真的吗》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>84</star_follow_num>
+<star_fan_num>1036518</star_fan_num>
+<star_weibo_num>13314</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>坚果手机</star_nickname>
+<star_info>锤子科技（北京）股份有限公司</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>404</star_follow_num>
+<star_fan_num>774943</star_fan_num>
+<star_weibo_num>4237</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>蓝宝科技官方微博</star_nickname>
+<star_info>SAPPHIRE TECHNOLOGY LIMITED</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>77</star_follow_num>
+<star_fan_num>4357</star_fan_num>
+<star_weibo_num>687</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>广濑丝丝_广濑铃</star_nickname>
+<star_info>広瀬すずbot，吸丝群:458353114，Twitter@Suzu_Mg，ig@suzu.hirose.official；欢迎私信加入【丝丝字幕组】</star_info>
+<star_way>微博搜索</star_way>
+<star_area>海外 日本</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>50</star_follow_num>
+<star_fan_num>8848</star_fan_num>
+<star_weibo_num>3634</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>vivo智能手机</star_nickname>
+<star_info>vivo智能手机官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>429</star_follow_num>
+<star_fan_num>37978887</star_fan_num>
+<star_weibo_num>13455</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>设计史诗</star_nickname>
+<star_info>关注这个微博的朋友品味都不差</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 美国</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>4</star_follow_num>
+<star_fan_num>344604</star_fan_num>
+<star_weibo_num>3582</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>喵呜不停</star_nickname>
+<star_info>头条文章作者</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 浦东新区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>122</star_follow_num>
+<star_fan_num>112269</star_fan_num>
+<star_weibo_num>5313</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>XPERIA手机旗舰店</star_nickname>
+<star_info>索尼手机中国官方旗舰店，提供官方购机攻略及手机咨询服务</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东 济南</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>105</star_follow_num>
+<star_fan_num>15012</star_fan_num>
+<star_weibo_num>1047</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>LAMY凌美中国</star_nickname>
+<star_info>德国知名书写品牌</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>401</star_follow_num>
+<star_fan_num>286435</star_fan_num>
+<star_weibo_num>8729</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>小牛电动</star_nickname>
+<star_info>牛电科技有限公司官方微博</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>691</star_follow_num>
+<star_fan_num>1088844</star_fan_num>
+<star_weibo_num>4911</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>中国气象爱好者</star_nickname>
+<star_info>知名科学科普博主 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 黄浦区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1068</star_follow_num>
+<star_fan_num>7846350</star_fan_num>
+<star_weibo_num>18728</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>忒污</star_nickname>
+<star_info>知名搞笑幽默博主 搞笑视频自媒体</star_info>
+<star_way>微博找人</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>96</star_follow_num>
+<star_fan_num>70037</star_fan_num>
+<star_weibo_num>1741</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>逼乎</star_nickname>
+<star_info>与世界分享你的装逼知识、经验和见解！</star_info>
+<star_way>微博找人</star_way>
+<star_area>湖北 武汉</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>115</star_follow_num>
+<star_fan_num>1041978</star_fan_num>
+<star_weibo_num>757</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>微博分享红包</star_nickname>
+<star_info>微博分享活动官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>109</star_follow_num>
+<star_fan_num>286225</star_fan_num>
+<star_weibo_num>16</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>微博红包</star_nickname>
+<star_info>微博红包</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>146</star_follow_num>
+<star_fan_num>11411612</star_fan_num>
+<star_weibo_num>612</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>全日空航空_ANA</star_nickname>
+<star_info>全日空航空公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>126</star_follow_num>
+<star_fan_num>726163</star_fan_num>
+<star_weibo_num>1656</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>ADATA威刚</star_nickname>
+<star_info>威刚电子（上海）有限公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>889</star_follow_num>
+<star_fan_num>1116780</star_fan_num>
+<star_weibo_num>2773</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>奚沾雨</star_nickname>
+<star_info>H君（エッチ君）…女神情报、新闻动态</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>60</star_follow_num>
+<star_fan_num>152669</star_fan_num>
+<star_weibo_num>14817</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>SEGA_世嘉</star_nickname>
+<star_info>SEGA_世嘉官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>65</star_follow_num>
+<star_fan_num>18097</star_fan_num>
+<star_weibo_num>4112</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>环球漫游Wi-Fi</star_nickname>
+<star_info>环球漫游官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>118</star_follow_num>
+<star_fan_num>229153</star_fan_num>
+<star_weibo_num>667</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>AMDRadeon显卡</star_nickname>
+<star_info>AMD Radeon显卡官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>72</star_follow_num>
+<star_fan_num>9273</star_fan_num>
+<star_weibo_num>243</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>平纪_真纪</star_nickname>
+<star_info>平纪配音工作室 工作室负责人     搞笑视频自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 徐汇区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>490</star_follow_num>
+<star_fan_num>94384</star_fan_num>
+<star_weibo_num>1237</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>JR西日本铁道之旅</star_nickname>
+<star_info>日本西日本旅客铁道株式会社上海代表处官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>46</star_follow_num>
+<star_fan_num>117841</star_fan_num>
+<star_weibo_num>1432</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>宅客kagakadaj</star_nickname>
+<star_info>知名电影博主 电影视频自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>460</star_follow_num>
+<star_fan_num>29469</star_fan_num>
+<star_weibo_num>17312</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>鑫谷官方微博</star_nickname>
+<star_info>惠州市鑫谷电子科技有限公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>220</star_follow_num>
+<star_fan_num>8034</star_fan_num>
+<star_weibo_num>712</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>杀马特强子</star_nickname>
+<star_info>知名时尚博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>河南</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>332</star_follow_num>
+<star_fan_num>3059098</star_fan_num>
+<star_weibo_num>3325</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>上海联通</star_nickname>
+<star_info>上海联通官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>336</star_follow_num>
+<star_fan_num>1186808</star_fan_num>
+<star_weibo_num>11388</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>优衣库_UNIQLO</star_nickname>
+<star_info>优衣库官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>367</star_follow_num>
+<star_fan_num>12354975</star_fan_num>
+<star_weibo_num>13749</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>可尔必思</star_nickname>
+<star_info>朝日啤酒（中国）投资有限公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>554</star_follow_num>
+<star_fan_num>629467</star_fan_num>
+<star_weibo_num>7340</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>高畑充希应援会</star_nickname>
+<star_info>高畑充希的资讯推送【高畑充希字幕组建立，想加入的小伙伴请私信，欢迎来勾搭】</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>68</star_follow_num>
+<star_fan_num>10365</star_fan_num>
+<star_weibo_num>3094</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>上海美术电影制片厂</star_nickname>
+<star_info>上海美术电影制片厂</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 静安区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>321</star_follow_num>
+<star_fan_num>97487</star_fan_num>
+<star_weibo_num>2541</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>小时候的那些事儿</star_nickname>
+<star_info>原创设计品牌PLD创办人杜可</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>178</star_follow_num>
+<star_fan_num>83413</star_fan_num>
+<star_weibo_num>371</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>快科技-原驱动之家</star_nickname>
+<star_info>快科技-原驱动之家官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>河南 郑州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>941</star_follow_num>
+<star_fan_num>1454941</star_fan_num>
+<star_weibo_num>65076</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>微博抽奖平台</star_nickname>
+<star_info>微博抽奖平台官方账号</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>808</star_follow_num>
+<star_fan_num>5298723</star_fan_num>
+<star_weibo_num>3205</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>随手拍</star_nickname>
+<star_info>新浪微博品牌活动-随手拍 官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>338</star_follow_num>
+<star_fan_num>3578918</star_fan_num>
+<star_weibo_num>9479</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>都灵故事会</star_nickname>
+<star_info>沉迷于FM不能自拔生活不能自理的孤独症患者</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外 日本</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>151</star_follow_num>
+<star_fan_num>354</star_fan_num>
+<star_weibo_num>879</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>THESUITCOMPANY</star_nickname>
+<star_info>AOYAMA TRADING Co.,ltd&nbsp;</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>110</star_follow_num>
+<star_fan_num>5634</star_fan_num>
+<star_weibo_num>568</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>东京攻略编辑部</star_nickname>
+<star_info>最全面，最实用，最权威的东京购物、吃喝玩乐攻略网站。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>34</star_follow_num>
+<star_fan_num>85127</star_fan_num>
+<star_weibo_num>1226</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>锐龙AMDRyzen</star_nickname>
+<star_info>锐龙AMD Ryzen处理器官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>122</star_follow_num>
+<star_fan_num>20733</star_fan_num>
+<star_weibo_num>327</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>我住在这里的理由</star_nickname>
+<star_info>知名旅游博主 旅行视频自媒体 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>江苏 南京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>234</star_follow_num>
+<star_fan_num>193991</star_fan_num>
+<star_weibo_num>2575</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>崎峻军史</star_nickname>
+<star_info>柳州市崎峻文化传播有限公司 闪电战杂志 职员 军事博主 头条文章作者 微博签约自媒体</star_info>
+<star_way>微博找人</star_way>
+<star_area>广西</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>341</star_follow_num>
+<star_fan_num>244768</star_fan_num>
+<star_weibo_num>1585</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>一席YiXi</star_nickname>
+<star_info>一席论坛官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>896</star_follow_num>
+<star_fan_num>201800</star_fan_num>
+<star_weibo_num>2498</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>更上海</star_nickname>
+<star_info>微博原创视频博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海 长宁区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>158</star_follow_num>
+<star_fan_num>696765</star_fan_num>
+<star_weibo_num>1439</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>沪江日语</star_nickname>
+<star_info>沪江日语官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 浦东新区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1497</star_follow_num>
+<star_fan_num>396451</star_fan_num>
+<star_weibo_num>24937</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>赤顔犬和乖蜂</star_nickname>
+<star_info>人文艺术博主 头条文章作者 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>云南 昆明</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>110</star_follow_num>
+<star_fan_num>34588</star_fan_num>
+<star_weibo_num>610</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>极优GU官方微博</star_nickname>
+<star_info>极优GU官方微博</star_info>
+<star_way>微博搜索</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>96</star_follow_num>
+<star_fan_num>302518</star_fan_num>
+<star_weibo_num>4110</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>瓦拉哇啦</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 长宁区</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>102</star_follow_num>
+<star_fan_num>94316</star_fan_num>
+<star_weibo_num>5</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>微博钱包</star_nickname>
+<star_info>微博钱包官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>136</star_follow_num>
+<star_fan_num>24813154</star_fan_num>
+<star_weibo_num>840</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>微博会员小秘书</star_nickname>
+<star_info>微博会员 客服</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>31</star_follow_num>
+<star_fan_num>30919782</star_fan_num>
+<star_weibo_num>56</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>吐槽大会官方微博</star_nickname>
+<star_info>大型喜剧脱口秀《吐槽大会》官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>205</star_follow_num>
+<star_fan_num>439844</star_fan_num>
+<star_weibo_num>1156</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>微博安全中心</star_nickname>
+<star_info>新浪微博安全中心官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>171</star_follow_num>
+<star_fan_num>28428706</star_fan_num>
+<star_weibo_num>457</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>樱花卫厨</star_nickname>
+<star_info>樱花卫厨官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>江苏 苏州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>479</star_follow_num>
+<star_fan_num>1204492</star_fan_num>
+<star_weibo_num>6148</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>天猫</star_nickname>
+<star_info>天猫官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>492</star_follow_num>
+<star_fan_num>12189867</star_fan_num>
+<star_weibo_num>20788</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>otonoco字幕组</star_nickname>
+<star_info>长泽雅美超话主持人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>49</star_follow_num>
+<star_fan_num>49167</star_fan_num>
+<star_weibo_num>226</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>科技深度News</star_nickname>
+<star_info>微博科学科普帐号</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 美国</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>61</star_follow_num>
+<star_fan_num>309702</star_fan_num>
+<star_weibo_num>2665</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>人力舍</star_nickname>
+<star_info>人力舍rlzimu.com官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>台湾</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>22</star_follow_num>
+<star_fan_num>32049</star_fan_num>
+<star_weibo_num>2017</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>东京不够热字幕组</star_nickname>
+<star_info>商业合作请私信我们。。官网请戳：http://www.tokyonothot.com/ 长期招人 有意者欢迎加入QQ群：241857492 请大家...</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 杨浦区</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>62</star_follow_num>
+<star_fan_num>118731</star_fan_num>
+<star_weibo_num>1323</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>内田有纪拉面馆</star_nickname>
+<star_info>曾用名YUKISS组❤禁转出WB＆二改❤ 长期招募翻译君❤</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>49</star_follow_num>
+<star_fan_num>79433</star_fan_num>
+<star_weibo_num>2493</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>有村花纯</star_nickname>
+<star_info>有村架纯应援会 有村花纯字幕组 all for 村花花</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>78</star_follow_num>
+<star_fan_num>33235</star_fan_num>
+<star_weibo_num>3449</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>微博活动</star_nickname>
+<star_info>新浪微博活动平台官方账号</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>93</star_follow_num>
+<star_fan_num>20791910</star_fan_num>
+<star_weibo_num>1202</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>新闻晨报</star_nickname>
+<star_info>《新闻晨报》官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 闵行区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>891</star_follow_num>
+<star_fan_num>30729701</star_fan_num>
+<star_weibo_num>106656</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>东方购物</star_nickname>
+<star_info>东方购物官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 杨浦区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>681</star_follow_num>
+<star_fan_num>134217</star_fan_num>
+<star_weibo_num>7815</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>云吸猫小哥</star_nickname>
+<star_info>知名萌宠博主 萌宠视频自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>吉林 长春</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>13</star_follow_num>
+<star_fan_num>387543</star_fan_num>
+<star_weibo_num>1662</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>MISS-STORE</star_nickname>
+<star_info>喜欢评论，尽量不做键盘侠，要做也做鲁迅那样的。不敢说自己完全客观，但是一定独立和第三方。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>四川 成都</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>283</star_follow_num>
+<star_fan_num>117</star_fan_num>
+<star_weibo_num>664</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>尤文图斯足球俱乐部</star_nickname>
+<star_info>尤文图斯足球俱乐部官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 其他</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>50</star_follow_num>
+<star_fan_num>398996</star_fan_num>
+<star_weibo_num>10652</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>日本音乐部屋</star_nickname>
+<star_info>海外资讯博主（日本）http://t.cn/RqC5luA</star_info>
+<star_way>微博找人</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>121</star_follow_num>
+<star_fan_num>96182</star_fan_num>
+<star_weibo_num>13999</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>生无可恋汪星人</star_nickname>
+<star_info>微博萌宠视频帐号</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>7</star_follow_num>
+<star_fan_num>103094</star_fan_num>
+<star_weibo_num>3559</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>游研社</star_nickname>
+<star_info>知名游戏博主 头条文章作者 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>655</star_follow_num>
+<star_fan_num>965544</star_fan_num>
+<star_weibo_num>10424</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>局座召忠</star_nickname>
+<star_info>著名军事专家</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>109</star_follow_num>
+<star_fan_num>8794378</star_fan_num>
+<star_weibo_num>411</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>日本新鲜事</star_nickname>
+<star_info>知名动漫博主 海外资讯博主（日本） 知名旅行玩家</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>23</star_follow_num>
+<star_fan_num>1398473</star_fan_num>
+<star_weibo_num>1539</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>萌宠物星球</star_nickname>
+<star_info>知名萌宠博主 萌宠视频自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>福建 福州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>20</star_follow_num>
+<star_fan_num>2925406</star_fan_num>
+<star_weibo_num>10570</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>纪录片之家字幕组</star_nickname>
+<star_info>微博译制视频博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>75</star_follow_num>
+<star_fan_num>2431498</star_fan_num>
+<star_weibo_num>2199</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>CHERRY览自</star_nickname>
+<star_info>广州览自信息技术有限公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>49</star_follow_num>
+<star_fan_num>6692</star_fan_num>
+<star_weibo_num>276</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>本名有人用了</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>江苏 无锡</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>349</star_follow_num>
+<star_fan_num>29</star_fan_num>
+<star_weibo_num>178</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>猫盟CFCA</star_nickname>
+<star_info>知名科学科普博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>317</star_follow_num>
+<star_fan_num>92635</star_fan_num>
+<star_weibo_num>2114</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>彩美旬果-ayami-shunka</star_nickname>
+<star_info>日本Marks Japan所属 演员 あやみ旬果</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>75</star_follow_num>
+<star_fan_num>98146</star_fan_num>
+<star_weibo_num>795</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>夏普手机</star_nickname>
+<star_info>夏普手机</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>75</star_follow_num>
+<star_fan_num>953734</star_fan_num>
+<star_weibo_num>1440</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>郊县天王老田</star_nickname>
+<star_info>漫画作者  代表作《咔嚓！老田就爱高丽丽》 知名搞笑幽默博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 丰台区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>426</star_follow_num>
+<star_fan_num>1389654</star_fan_num>
+<star_weibo_num>925</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>日语学习</star_nickname>
+<star_info>日语教育名博 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>588</star_follow_num>
+<star_fan_num>599509</star_fan_num>
+<star_weibo_num>22499</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>冰豹_中国</star_nickname>
+<star_info>德国第一电竞外设品牌</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 德国</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>141</star_follow_num>
+<star_fan_num>133189</star_fan_num>
+<star_weibo_num>703</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>素食绫也</star_nickname>
+<star_info>美食节目【素食绫也】主持人，出品人 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 日本</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>50</star_follow_num>
+<star_fan_num>188584</star_fan_num>
+<star_weibo_num>222</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>SIGMA适马</star_nickname>
+<star_info>适马贸易（上海）有限公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>2049</star_follow_num>
+<star_fan_num>28979</star_fan_num>
+<star_weibo_num>12966</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>萌爪医生</star_nickname>
+<star_info>美国西雅图执业兽医师 知名萌宠博主 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 海淀区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>601</star_follow_num>
+<star_fan_num>898286</star_fan_num>
+<star_weibo_num>6902</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>王杰</star_nickname>
+<star_info>华语乐坛巨星、创作型歌手</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>5</star_follow_num>
+<star_fan_num>8330415</star_fan_num>
+<star_weibo_num>12</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>UEFA-欧足联</star_nickname>
+<star_info>UEFA欧足联官方中文微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>127</star_follow_num>
+<star_fan_num>2463638</star_fan_num>
+<star_weibo_num>7587</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>其实我也可能是个玩摇滚的安</star_nickname>
+<star_info>愿世间所有一切 都如你所愿</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>137</star_follow_num>
+<star_fan_num>43</star_fan_num>
+<star_weibo_num>43</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>咱家的四叶草</star_nickname>
+<star_info>随缘惜福</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>165</star_follow_num>
+<star_fan_num>224</star_fan_num>
+<star_weibo_num>444</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>暴走看啥片儿</star_nickname>
+<star_info>影视剧吐槽视频系列《暴走看啥片儿》官博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外 新西兰</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>191</star_follow_num>
+<star_fan_num>4754248</star_fan_num>
+<star_weibo_num>1888</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>回顾一下我用过的手机</star_nickname>
+<star_info>None</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>上海</star_nickname>
+<star_info>上海（Shanghai），简称“沪”，有“东方巴黎”的美称，中华人民共和国直辖市之一，中国国家中心城市，中国的经济、...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+</follow_list>

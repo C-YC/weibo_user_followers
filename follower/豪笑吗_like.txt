@@ -1,0 +1,1203 @@
+<id>豪笑吗</id>
+<follow_list>
+<star>
+<star_nickname>娱yuyuyu</star_nickname>
+<star_info>带你畅游娱乐圈</star_info>
+<star_way>微博搜索</star_way>
+<star_area>湖北</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>60</star_follow_num>
+<star_fan_num>19263</star_fan_num>
+<star_weibo_num>113</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>韩宇531</star_nickname>
+<star_info>优酷《这！就是街舞》49强</star_info>
+<star_way>微博找人</star_way>
+<star_area>上海 静安区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>643</star_follow_num>
+<star_fan_num>301402</star_fan_num>
+<star_weibo_num>233</star_weibo_num>
+<star_level>1</star_level>
+</star>
+<star>
+<star_nickname>大本营黑衣人小方</star_nickname>
+<star_info>&nbsp;&nbsp;《快乐大本营》导演</star_info>
+<star_way>微博找人</star_way>
+<star_area>湖南 长沙</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>472</star_follow_num>
+<star_fan_num>2485823</star_fan_num>
+<star_weibo_num>1252</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>郭涛</star_nickname>
+<star_info>演员郭涛</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>459</star_follow_num>
+<star_fan_num>11569562</star_fan_num>
+<star_weibo_num>1538</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>胡军</star_nickname>
+<star_info>影视演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>592</star_follow_num>
+<star_fan_num>3295327</star_fan_num>
+<star_weibo_num>1695</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>推剧资源君</star_nickname>
+<star_info>娱乐博主</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>149</star_follow_num>
+<star_fan_num>996076</star_fan_num>
+<star_weibo_num>13311</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>蔡徐坤</star_nickname>
+<star_info>《偶像练习生》选手 歌手</star_info>
+<star_way>微博找人</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>107</star_follow_num>
+<star_fan_num>6105326</star_fan_num>
+<star_weibo_num>248</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>王南钧Krystian</star_nickname>
+<star_info>《2017快乐男声》15强</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>124</star_follow_num>
+<star_fan_num>323861</star_fan_num>
+<star_weibo_num>214</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>吳速玲</star_nickname>
+<star_info>就是音樂國際有限公司音樂總監</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>122</star_follow_num>
+<star_fan_num>3200870</star_fan_num>
+<star_weibo_num>1203</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>苏炳添</star_nickname>
+<star_info>国家田径队运动员,全国百米纪录保持者苏炳添</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 中山</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>89</star_follow_num>
+<star_fan_num>900986</star_fan_num>
+<star_weibo_num>275</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>演员胡先煦</star_nickname>
+<star_info>光线传媒签约艺人</star_info>
+<star_way>微博找人</star_way>
+<star_area>天津</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>280</star_follow_num>
+<star_fan_num>1350422</star_fan_num>
+<star_weibo_num>1097</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>红花会PG_ONE</star_nickname>
+<star_info>说唱歌手</star_info>
+<star_way>微博搜索</star_way>
+<star_area>黑龙江 哈尔滨</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>110</star_follow_num>
+<star_fan_num>4184134</star_fan_num>
+<star_weibo_num>625</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>俞灏明</star_nickname>
+<star_info>歌手，演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>270</star_follow_num>
+<star_fan_num>15884936</star_fan_num>
+<star_weibo_num>832</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>杜海涛</star_nickname>
+<star_info>湖南卫视主持人</star_info>
+<star_way>微博找人</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>808</star_follow_num>
+<star_fan_num>34355085</star_fan_num>
+<star_weibo_num>6246</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>高至霆</star_nickname>
+<star_info>演员高至霆</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>89</star_follow_num>
+<star_fan_num>1493200</star_fan_num>
+<star_weibo_num>135</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>胡一天啊</star_nickname>
+<star_info>演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>74</star_follow_num>
+<star_fan_num>9098223</star_fan_num>
+<star_weibo_num>94</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>欧豪</star_nickname>
+<star_info>欧豪，92年10月13日出生于福建。新生代演员、歌手，代表作电影《左耳》。他是潜力十足的演员，也是唱跳俱佳的歌...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>汪东城</star_nickname>
+<star_info>歌手、演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1144</star_follow_num>
+<star_fan_num>16262972</star_fan_num>
+<star_weibo_num>4798</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>傻子笙歌</star_nickname>
+<star_info>憋说话，吻我。这里有不一样的世界。</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>None</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>303</star_follow_num>
+<star_fan_num>613891</star_fan_num>
+<star_weibo_num>6111</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>何洁</star_nickname>
+<star_info>歌手</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>433</star_follow_num>
+<star_fan_num>6792498</star_fan_num>
+<star_weibo_num>1389</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>凌潇肃先生</star_nickname>
+<star_info>演员凌潇肃</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>10</star_follow_num>
+<star_fan_num>584834</star_fan_num>
+<star_weibo_num>25</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>言承旭Jerry</star_nickname>
+<star_info>台湾知名艺人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>26</star_follow_num>
+<star_fan_num>2357429</star_fan_num>
+<star_weibo_num>92</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>熊梓淇</star_nickname>
+<star_info>演员 歌手 SpeXial成员Dylan 代表作：浪花一朵朵</star_info>
+<star_way>微博搜索</star_way>
+<star_area>上海</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>381</star_follow_num>
+<star_fan_num>8465449</star_fan_num>
+<star_weibo_num>919</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>牛骏峰</star_nickname>
+<star_info>演员牛骏峰  剧版《微微一笑很倾城》饰演于半珊</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>377</star_follow_num>
+<star_fan_num>7500944</star_fan_num>
+<star_weibo_num>452</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>欧豪吧官微</star_nickname>
+<star_info>#欧豪#超级话题主持人团队</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>140</star_follow_num>
+<star_fan_num>29141</star_fan_num>
+<star_weibo_num>9180</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>何晟铭</star_nickname>
+<star_info>影视演员、歌手</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>624</star_follow_num>
+<star_fan_num>9055664</star_fan_num>
+<star_weibo_num>2689</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>陳小春</star_nickname>
+<star_info>香港歌手，演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>香港 其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1048</star_follow_num>
+<star_fan_num>11439488</star_fan_num>
+<star_weibo_num>4863</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>应采儿</star_nickname>
+<star_info>香港演员，陈小春妻子。代表作《我的失忆男友》《赵氏孤儿案》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>香港</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>594</star_follow_num>
+<star_fan_num>15785698</star_fan_num>
+<star_weibo_num>5624</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>William威廉陈伟霆</star_nickname>
+<star_info>香港英皇艺人陈伟霆</star_info>
+<star_way>微博推荐</star_way>
+<star_area>香港 中西区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>640</star_follow_num>
+<star_fan_num>25486345</star_fan_num>
+<star_weibo_num>3134</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>微博视频台</star_nickname>
+<star_info>微博视频合作官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1131</star_follow_num>
+<star_fan_num>3054875</star_fan_num>
+<star_weibo_num>11579</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>演员黄志忠</star_nickname>
+<star_info> 演员</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>360</star_follow_num>
+<star_fan_num>542495</star_fan_num>
+<star_weibo_num>642</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>美拍</star_nickname>
+<star_info>美拍官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>福建</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>334</star_follow_num>
+<star_fan_num>4448689</star_fan_num>
+<star_weibo_num>16817</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>林俊杰</star_nickname>
+<star_info>歌手，代表作《江南》、《曹操》</star_info>
+<star_way>微博故事</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>458</star_follow_num>
+<star_fan_num>37858179</star_fan_num>
+<star_weibo_num>4648</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>M鹿M</star_nickname>
+<star_info>演员 歌手 代表作 电影《重返二十岁》 歌曲《我们的明天》</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>113</star_follow_num>
+<star_fan_num>43508606</star_fan_num>
+<star_weibo_num>586</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>鲁网</star_nickname>
+<star_info>鲁网官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1351</star_follow_num>
+<star_fan_num>2754826</star_fan_num>
+<star_weibo_num>84876</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>济南热闻</star_nickname>
+<star_info>知名本地博主 本地资讯博主（济南） 济南早安心语超话主持人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东 济南</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>539</star_follow_num>
+<star_fan_num>280678</star_fan_num>
+<star_weibo_num>10841</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>华华86</star_nickname>
+<star_info>媒体人（济南） 记者、编辑 头条文章作者</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东 济南</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1339</star_follow_num>
+<star_fan_num>108626</star_fan_num>
+<star_weibo_num>5390</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>济南时报</star_nickname>
+<star_info>《济南时报》官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1378</star_follow_num>
+<star_fan_num>960824</star_fan_num>
+<star_weibo_num>66588</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>包贝尔</star_nickname>
+<star_info>青年演员，代表作《致青春》《一路顺疯》《临终囧事》《画壁》等</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1152</star_follow_num>
+<star_fan_num>11757825</star_fan_num>
+<star_weibo_num>4095</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>济南身边事</star_nickname>
+<star_info>本地资讯博主（济南） 资讯视频自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>山东 济南</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1336</star_follow_num>
+<star_fan_num>62686</star_fan_num>
+<star_weibo_num>2273</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>随手拍APP</star_nickname>
+<star_info>随手拍APP官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1534</star_follow_num>
+<star_fan_num>2644201</star_fan_num>
+<star_weibo_num>7813</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>刘奕君actor</star_nickname>
+<star_info>演员刘奕君</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>517</star_follow_num>
+<star_fan_num>833795</star_fan_num>
+<star_weibo_num>3645</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>jessica何耀辉</star_nickname>
+<star_info>Nike中国教练 北京正卡奇体育发展有限公司 技术总监 知名运动博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>767</star_follow_num>
+<star_fan_num>53167</star_fan_num>
+<star_weibo_num>2956</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>明星势力榜</star_nickname>
+<star_info>明星势力榜官方微博</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>45</star_follow_num>
+<star_fan_num>2633181</star_fan_num>
+<star_weibo_num>3315</star_weibo_num>
+<star_level>4</star_level>
+</star>
+<star>
+<star_nickname>新华网</star_nickname>
+<star_info>新华网法人微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 西城区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>799</star_follow_num>
+<star_fan_num>32097387</star_fan_num>
+<star_weibo_num>70945</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>伊能靜</star_nickname>
+<star_info>歌手，演员</star_info>
+<star_way>微博推荐</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>671</star_follow_num>
+<star_fan_num>16938805</star_fan_num>
+<star_weibo_num>3789</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>潘瑋柏</star_nickname>
+<star_info>知名歌星</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾 台北市</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>419</star_follow_num>
+<star_fan_num>24864148</star_fan_num>
+<star_weibo_num>4512</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>霍思燕</star_nickname>
+<star_info>内地演员，电影《我要成名》 女主演。</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>984</star_follow_num>
+<star_fan_num>16428097</star_fan_num>
+<star_weibo_num>3071</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>Company_欧豪数据基地</star_nickname>
+<star_info>欧豪官方数据组‖主要负责线上微博转发、话题宣传与搜索净化‖长期招新，欢迎加入QQ群：608216277</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>28</star_follow_num>
+<star_fan_num>8350</star_fan_num>
+<star_weibo_num>392</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>欧豪</star_nickname>
+<star_info>新生代演员、歌手 欧豪 代表作：电影《左耳》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东 广州</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>173</star_follow_num>
+<star_fan_num>9017674</star_fan_num>
+<star_weibo_num>37</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>薛之谦</star_nickname>
+<star_info>原创歌手</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>706</star_follow_num>
+<star_fan_num>38416280</star_fan_num>
+<star_weibo_num>966</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>魏晨</star_nickname>
+<star_info>歌手，演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>231</star_follow_num>
+<star_fan_num>25483632</star_fan_num>
+<star_weibo_num>1807</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>王源</star_nickname>
+<star_info>王源，2000年11月8日生于重庆，唱歌演戏主持多栖发展的全能偶像，2017年成立“源公益专项基金"，14岁原创词...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>电影攻略菌</star_nickname>
+<star_info>三只狐狸影评人 知名电影博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>93</star_follow_num>
+<star_fan_num>8209848</star_fan_num>
+<star_weibo_num>63633</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>快乐男声官博</star_nickname>
+<star_info>《快乐男声》节目官方微博</star_info>
+<star_way>微博找人</star_way>
+<star_area>湖南</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>227</star_follow_num>
+<star_fan_num>3837702</star_fan_num>
+<star_weibo_num>22294</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>浙江卫视OPPO年中发布盛典</star_nickname>
+<star_info>浙江卫视年中盛典，OPPO R11发布盛典，今晚20:30由浙江卫视全程直播！21:00@浙江卫视年中盛典 官微视频直播！</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>马思纯</star_nickname>
+<star_info>内地女演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>232</star_follow_num>
+<star_fan_num>9376947</star_fan_num>
+<star_weibo_num>1231</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>李茂CaeSaRL</star_nickname>
+<star_info>演员 歌手 原至上励合成员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>889</star_follow_num>
+<star_fan_num>3916665</star_fan_num>
+<star_weibo_num>4663</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>胡可</star_nickname>
+<star_info>演员，主持人</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>333</star_follow_num>
+<star_fan_num>7283800</star_fan_num>
+<star_weibo_num>3880</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>我的电影图解</star_nickname>
+<star_info>知名电影博主 微博签约自媒体</star_info>
+<star_way>微博找人</star_way>
+<star_area>广东</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>89</star_follow_num>
+<star_fan_num>6647740</star_fan_num>
+<star_weibo_num>24830</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>谢孟伟</star_nickname>
+<star_info>《喋血孤城》、《小兵张嘎》演员</star_info>
+<star_way>微博搜索</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>245</star_follow_num>
+<star_fan_num>1618872</star_fan_num>
+<star_weibo_num>2237</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>肖央</star_nickname>
+<star_info>青年导演 筷子兄弟成员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>726</star_follow_num>
+<star_fan_num>3088095</star_fan_num>
+<star_weibo_num>1259</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>杨迪</star_nickname>
+<star_info>主持人；演员。代表作：《爽食行天下》电影《西游降魔篇》</star_info>
+<star_way>微博搜索</star_way>
+<star_area>四川 阿坝</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>1176</star_follow_num>
+<star_fan_num>3077069</star_fan_num>
+<star_weibo_num>3244</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>欧豪电影青禾男高</star_nickname>
+<star_info>由@欧豪 领衔主演的电影《青禾男高》将于7月12日晚18:00超前公映，稳坐男高头把交椅的荆浩大哥等你约架！</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>欧豪天意之秦天宝鉴</star_nickname>
+<star_info>只是占个位置┃防有心人利用┃</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>魔饭生娱乐圈</star_nickname>
+<star_info>深圳魔饭科技有限公司官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>广东</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>244</star_follow_num>
+<star_fan_num>75061</star_fan_num>
+<star_weibo_num>294</star_weibo_num>
+<star_level>2</star_level>
+</star>
+<star>
+<star_nickname>趣拍APP</star_nickname>
+<star_info>趣拍，手机微视频神器。新浪第三方应用 趣拍 官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>浙江 杭州</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>1085</star_follow_num>
+<star_fan_num>114194</star_fan_num>
+<star_weibo_num>4488</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>OHO阿煊</star_nickname>
+<star_info>我想守护的，只有你，-----天蓬</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山西</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>121</star_follow_num>
+<star_fan_num>84</star_fan_num>
+<star_weibo_num>10</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>王心凌</star_nickname>
+<star_info>台湾知名歌手</star_info>
+<star_way>微博搜索</star_way>
+<star_area>台湾</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>287</star_follow_num>
+<star_fan_num>5116067</star_fan_num>
+<star_weibo_num>1549</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>小沈阳</star_nickname>
+<star_info>艺人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>366</star_follow_num>
+<star_fan_num>16167539</star_fan_num>
+<star_weibo_num>2147</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>xyy900327</star_nickname>
+<star_info>None</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东 泰安</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>73</star_follow_num>
+<star_fan_num>2</star_fan_num>
+<star_weibo_num>26</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>文松V</star_nickname>
+<star_info>本山传媒演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>辽宁 沈阳</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>239</star_follow_num>
+<star_fan_num>544864</star_fan_num>
+<star_weibo_num>105</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>欧豪是光</star_nickname>
+<star_info>他是一个如阳光般的少年，总会带给人许多温暖，希望海鸥们也能够永远支持他，爱护他，我们一起陪他走的更远</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>王亮actor</star_nickname>
+<star_info>艺嘉创星签约演员</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>110</star_follow_num>
+<star_fan_num>330273</star_fan_num>
+<star_weibo_num>74</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>吴昕</star_nickname>
+<star_info>演员 主持人</star_info>
+<star_way>微博搜索</star_way>
+<star_area>其他</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>443</star_follow_num>
+<star_fan_num>29626668</star_fan_num>
+<star_weibo_num>1710</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>张继科</star_nickname>
+<star_info>乒乓球奥运冠军张继科</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>109</star_follow_num>
+<star_fan_num>9252750</star_fan_num>
+<star_weibo_num>69</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>东方卫视跨年</star_nickname>
+<star_info>东方卫视梦圆东方跨年盛典官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>上海 黄浦区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>228</star_follow_num>
+<star_fan_num>212039</star_fan_num>
+<star_weibo_num>1502</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>微博电视</star_nickname>
+<star_info>微博电视媒体合作官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>2989</star_follow_num>
+<star_fan_num>2513014</star_fan_num>
+<star_weibo_num>30725</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>欧豪钢铁团</star_nickname>
+<star_info>【欧豪微博小分队】ADHERE_欧豪个站</star_info>
+<star_way>微博推荐</star_way>
+<star_area>其他</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>31</star_follow_num>
+<star_fan_num>5503</star_fan_num>
+<star_weibo_num>3019</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>少年(2016)</star_nickname>
+<star_info>电影《少年》挺进12.16。《少年》专注极致罪案，以独特视角讲述一个黑客少年精心布网，一步步将仇人引向灭亡的惊...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>吴尊</star_nickname>
+<star_info>知名歌手，演员，《决定勇敢》作者</star_info>
+<star_way>微博找人</star_way>
+<star_area>海外</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>97</star_follow_num>
+<star_fan_num>8206635</star_fan_num>
+<star_weibo_num>610</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>宋小宝纯行货</star_nickname>
+<star_info>赵本山徒弟宋小宝</star_info>
+<star_way>微博推荐</star_way>
+<star_area>吉林 通化</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>205</star_follow_num>
+<star_fan_num>6504970</star_fan_num>
+<star_weibo_num>1018</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>半夏冷菇凉</star_nickname>
+<star_info>没心没肺，活着不累。。</star_info>
+<star_way>微博推荐</star_way>
+<star_area>山东 济南</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>83</star_follow_num>
+<star_fan_num>22</star_fan_num>
+<star_weibo_num>155</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>我还是那个彩虹啊啊</star_nickname>
+<star_info>欧豪超话粉丝大咖</star_info>
+<star_way>微博推荐</star_way>
+<star_area>河南</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>289</star_follow_num>
+<star_fan_num>841</star_fan_num>
+<star_weibo_num>23816</star_weibo_num>
+<star_level>3</star_level>
+</star>
+<star>
+<star_nickname>欧豪QQ兴趣部落</star_nickname>
+<star_info>腾讯欧豪部落官方微博，欧豪部落工作应聘群421448455</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>27</star_follow_num>
+<star_fan_num>512</star_fan_num>
+<star_weibo_num>2175</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>吴星瑭tanger</star_nickname>
+<star_info>搞笑视频自媒体</star_info>
+<star_way>微博搜索</star_way>
+<star_area>辽宁 大连</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>260</star_follow_num>
+<star_fan_num>20413</star_fan_num>
+<star_weibo_num>364</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>影视剧透社</star_nickname>
+<star_info>知名娱乐博主 知名电视评论人、微博电视团成员 微博签约自媒体</star_info>
+<star_way>微博推荐</star_way>
+<star_area>海外</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>721</star_follow_num>
+<star_fan_num>1347468</star_fan_num>
+<star_weibo_num>4043</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>杨树鹏</star_nickname>
+<star_info>电影导演，作品《匹夫》《我的唐朝兄弟》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>596</star_follow_num>
+<star_fan_num>3069460</star_fan_num>
+<star_weibo_num>1810</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>杜江侦察记</star_nickname>
+<star_info>演员，代表作《红海行动》《罗曼蒂克消亡史》《高跟鞋先生》</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>614</star_follow_num>
+<star_fan_num>10539729</star_fan_num>
+<star_weibo_num>3617</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>Copper武艺博</star_nickname>
+<star_info>秒拍达人</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>308</star_follow_num>
+<star_fan_num>453443</star_fan_num>
+<star_weibo_num>1243</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>娱乐圈丑哥</star_nickname>
+<star_info>知名综艺博主</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>50</star_follow_num>
+<star_fan_num>803199</star_fan_num>
+<star_weibo_num>2751</star_weibo_num>
+<star_level>5</star_level>
+</star>
+<star>
+<star_nickname>张蓝心LanxinZhang</star_nickname>
+<star_info>演员、代表作《十二生肖》，跆拳道冠军</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>f</star_gender>
+<star_follow_num>397</star_follow_num>
+<star_fan_num>4034110</star_fan_num>
+<star_weibo_num>1196</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>欧豪妖猫传</star_nickname>
+<star_info>@欧豪 参演著名导演陈凯歌新作《妖猫传》饰演丹龙，化身白鹤少年，羽衣加身清新俊逸，眉目清秀俊朗如玉，该片于1...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>释小龙Ashton</star_nickname>
+<star_info>知名演员，《龙门释家》创始人</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>213</star_follow_num>
+<star_fan_num>3189175</star_fan_num>
+<star_weibo_num>1161</star_weibo_num>
+<star_level>6</star_level>
+</star>
+<star>
+<star_nickname>真正男子汉</star_nickname>
+<star_info>湖南卫视《真正男子汉》官方微博</star_info>
+<star_way>微博推荐</star_way>
+<star_area>湖南</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>170</star_follow_num>
+<star_fan_num>391314</star_fan_num>
+<star_weibo_num>2523</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>杨坤</star_nickname>
+<star_info>歌手艺人</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 东城区</star_area>
+<star_type>微博个人认证 </star_type>
+<star_gender>m</star_gender>
+<star_follow_num>274</star_follow_num>
+<star_fan_num>4510349</star_fan_num>
+<star_weibo_num>1011</star_weibo_num>
+<star_level>7</star_level>
+</star>
+<star>
+<star_nickname>路馨萍lu</star_nickname>
+<star_info>You are the one that I most want to meet，the special one</star_info>
+<star_way>微博推荐</star_way>
+<star_area>陕西 西安</star_area>
+<star_type>None</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>325</star_follow_num>
+<star_fan_num>118</star_fan_num>
+<star_weibo_num>106</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>欧豪微博宣传站</star_nickname>
+<star_info>欧豪后援会</star_info>
+<star_way>微博找人</star_way>
+<star_area>北京 朝阳区</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>m</star_gender>
+<star_follow_num>62</star_follow_num>
+<star_fan_num>19232</star_fan_num>
+<star_weibo_num>6054</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>欧豪电影少年</star_nickname>
+<star_info>@欧豪 出演由著名导演杨树鹏执导的悬疑犯罪电影《少年》，饰演男一号苏昂，突破演绎青春中的“复仇”与“罪爱”。12...</star_info>
+<star_way>None</star_way>
+<star_area>None</star_area>
+<star_type>None</star_type>
+<star_gender></star_gender>
+<star_follow_num>None</star_follow_num>
+<star_fan_num>None</star_fan_num>
+<star_weibo_num>None</star_weibo_num>
+<star_level>None</star_level>
+</star>
+<star>
+<star_nickname>微博钱包积分</star_nickname>
+<star_info>微梦创科网络科技（中国）有限公司</star_info>
+<star_way>微博推荐</star_way>
+<star_area>北京</star_area>
+<star_type>微博官方认证</star_type>
+<star_gender>f</star_gender>
+<star_follow_num>50</star_follow_num>
+<star_fan_num>13212577</star_fan_num>
+<star_weibo_num>604</star_weibo_num>
+<star_level>4</star_level>
+</star>
+</follow_list>
